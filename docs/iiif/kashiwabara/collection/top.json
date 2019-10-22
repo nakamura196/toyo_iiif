@@ -1,0 +1,58 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/kashiwabara/collection/top.json",
+    "@type": "sc:Collection",
+    "label": "柏原英一写真帳",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/kashiwabara/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "柏原英一写真帳 第1冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib2/001/page1/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/kashiwabara/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "柏原英一写真帳 第2冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib2/002/page1/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/kashiwabara/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "柏原英一写真帳 第3冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib2/003/page1/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/kashiwabara/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "柏原英一写真帳 第4冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib2/004/page1/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/kashiwabara/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "柏原英一写真帳 第5冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib2/005/page1/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/kashiwabara/006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "柏原英一写真帳 第6冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib2/006/page1/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/kashiwabara/007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "柏原英一写真帳 第7冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib2/007/page1/thumbnail.jpg"
+        }
+    ],
+    "vhint": "use-thumb"
+}

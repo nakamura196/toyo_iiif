@@ -18,7 +18,7 @@ for a in aas:
     if "lib5" in href:
         books.append(href.split("/data/")[1])
 
-for i in range(800, len(books)):
+for i in range(0, len(books)):
 
     sleep(1)
 
