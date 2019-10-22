@@ -1224,6 +1224,1656 @@
                         "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0048_s.png"
                     },
                     "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p49",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p49-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p49",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0049_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[49]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0049_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p50",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p50-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p50",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0050_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[50]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0050_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p51",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p51-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p51",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0051_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[51]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0051_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p52",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p52-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p52",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0052_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[52]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0052_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p53",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p53-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p53",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0053_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[53]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0053_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p54",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p54-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p54",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0054_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[54]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0054_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p55",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p55-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p55",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0055_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[55]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0055_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p56",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p56-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p56",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0056_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[56]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0056_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p57",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p57-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p57",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0057_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[57]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0057_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p58",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p58-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p58",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0058_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[58]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0058_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p59",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p59-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p59",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0059_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[59]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0059_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p60",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p60-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p60",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0060_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[60]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0060_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p61",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p61-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p61",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0061_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[61]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0061_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p62",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p62-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p62",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0062_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[62]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0062_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p63",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p63-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p63",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0063_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[63]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0063_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p64",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p64-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p64",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0064_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[64]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0064_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p65",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p65-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p65",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0065_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[65]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0065_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p66",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p66-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p66",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0066_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[66]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0066_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p67",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p67-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p67",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0067_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[67]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0067_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p68",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p68-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p68",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0068_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[68]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0068_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p69",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p69-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p69",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0069_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[69]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0069_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p70",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p70-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p70",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0070_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[70]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0070_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p71",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p71-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p71",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0071_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[71]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0071_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p72",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p72-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p72",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0072_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[72]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0072_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p73",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p73-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p73",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0073_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[73]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0073_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p74",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p74-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p74",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0074_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[74]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0074_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p75",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p75-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p75",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0075_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[75]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0075_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p76",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p76-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p76",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0076_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[76]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0076_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p77",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p77-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p77",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0077_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[77]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0077_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p78",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p78-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p78",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0078_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[78]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0078_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p79",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p79-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p79",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0079_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[79]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0079_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p80",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p80-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p80",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0080_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[80]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0080_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p81",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p81-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p81",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0081_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[81]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0081_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p82",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p82-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p82",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0082_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[82]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0082_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p83",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p83-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p83",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0083_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[83]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0083_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p84",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p84-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p84",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0084_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[84]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0084_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p85",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p85-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p85",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0085_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[85]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0085_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p86",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p86-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p86",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0086_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[86]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0086_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p87",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p87-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p87",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0087_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[87]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0087_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p88",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p88-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p88",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0088_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[88]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0088_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p89",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p89-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p89",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0089_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[89]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0089_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p90",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p90-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p90",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0090_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[90]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0090_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p91",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p91-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p91",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0091_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[91]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0091_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p92",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p92-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p92",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0092_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[92]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0092_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p93",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p93-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p93",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0093_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[93]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0093_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p94",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p94-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p94",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0094_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[94]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0094_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p95",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p95-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p95",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0095_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[95]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0095_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p96",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p96-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p96",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0096_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[96]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0096_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p97",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p97-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p97",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0097_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[97]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0097_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p98",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p98-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p98",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0098_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[98]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0098_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p99",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p99-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p99",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0099_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[99]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0099_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p100",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p100-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p100",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0100_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[100]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0100_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p101",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p101-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p101",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0101_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[101]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0101_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p102",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p102-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p102",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0102_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[102]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0102_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p103",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p103-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p103",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0103_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[103]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0103_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p104",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p104-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p104",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0104_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[104]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0104_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p105",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p105-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p105",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0105_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[105]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0105_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p106",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p106-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p106",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0106_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[106]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0106_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p107",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p107-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p107",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0107_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[107]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0107_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p108",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p108-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p108",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0108_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[108]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0108_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p109",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p109-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p109",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0109_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[109]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0109_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p110",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p110-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p110",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0110_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[110]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0110_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p111",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p111-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p111",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0111_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[111]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0111_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p112",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p112-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p112",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0112_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[112]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0112_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p113",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p113-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p113",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0113_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[113]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0113_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p114",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/annotation/p114-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01483/manifest.json/canvas/p114",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0114_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[114]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB01483/files/assets/flash/pages/page0114_s.png"
+                    },
+                    "width": 2077
                 }
             ],
             "label": "Current Page Order",
