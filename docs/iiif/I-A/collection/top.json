@@ -1,0 +1,16 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/I-A/collection/top.json",
+    "@type": "sc:Collection",
+    "label": "Ⅴ．動画 東アジア［図書部：研究部；東アジア資料研究班］ L1　中国祭祀演劇資料 I. 郷民儀禮 A.巡遊",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/I-A/I-A_0/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "(0) 広東系至潮州系総合",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMwUBCBCbnKi3Zgpp9q8kBaHwHDeylDS8DaHOjA40Th1KsMs5w"
+        }
+    ],
+    "vhint": "use-thumb"
+}
