@@ -3206,11 +3206,11 @@
                 }
             ],
             "label": "Current Page Order",
-            "viewingHint": "paged"
+            "viewingHint": "non-paged"
         }
     ],
     "thumbnail": {
         "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB00166/files/assets/flash/pages/page0001_s.png"
     },
-    "viewingDirection": "left-to-right"
+    "viewingDirection": "right-to-left"
 }

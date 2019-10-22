@@ -22,8 +22,8 @@
             "@type": "sc:Sequence",
             "canvases": [],
             "label": "Current Page Order",
-            "viewingHint": "paged"
+            "viewingHint": "non-paged"
         }
     ],
-    "viewingDirection": "left-to-right"
+    "viewingDirection": "right-to-left"
 }
