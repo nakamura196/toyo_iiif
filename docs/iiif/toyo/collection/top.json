@@ -1,0 +1,23 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/toyo/collection/top.json",
+    "@type": "sc:Collection",
+    "label": "東洋文庫IIIFコレクション",
+    "collections": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/collection/top.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯",
+            "thumbnail": "http://124.33.215.236/research/atoinga/001/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/collection/top.json",
+            "@type": "sc:Manifest",
+            "label": "現代中国研究資料室公開・近代中国関係日本語資料",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB00022/files/assets/flash/pages/page0001_s.png"
+        }
+    ],
+    "vhint": "use-thumb"
+}

@@ -34,7 +34,7 @@ for i in range(len(books)):
 
         path  = "tmp/"+book.replace("/", "-")+"_"+str(page).zfill(3)+".json"
 
-        # print(str(book)+"_"+str(page))
+        print(str(book)+"_"+str(page))
 
         if not os.path.exists(path):
 
