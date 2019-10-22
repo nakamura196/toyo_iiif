@@ -3,7 +3,7 @@
       "http://iiif.io/api/presentation/2/context.json",
       "http://wellcomelibrary.org/ld/ixif/0/context.json"
     ],
-    "@id": "https://nakamura196.github.io/toyo_iiif/I-A/I-A_0/manifest.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/I-A/I-A_0/manifest.json",
     "@type": "sc:Manifest",
     "label": "(0) 広東系至潮州系総合",
     "license": "http://www.toyo-bunko.or.jp",
