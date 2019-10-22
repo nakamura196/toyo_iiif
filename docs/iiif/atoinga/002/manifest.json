@@ -4639,7 +4639,1457 @@
                 }
             ],
             "label": "Current Page Order",
-            "viewingHint": "non-paged"
+            "viewingHint": "paged"
+        }
+    ],
+    "structures": [
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r2",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p2"
+            ],
+            "label": "◆目次"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r3",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p3"
+            ],
+            "label": "ろふそく岩の碧潭　（灤河）　[第18回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r4",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p4"
+            ],
+            "label": "灤河吟　（灤河）　[第18回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r5",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p5"
+            ],
+            "label": "長城附近の潮河　（古北口）　[第18回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r6",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p6"
+            ],
+            "label": "曳き船　（灤河）　[第18回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r7",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p7"
+            ],
+            "label": "灤河の船運　（灤河）　[第2?回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r8",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p8"
+            ],
+            "label": "灤河の風呂敷帆　（灤河）　[第18回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r9",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p9"
+            ],
+            "label": "舞踊天女　（山西省雲岡）　[第19回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r10",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p10"
+            ],
+            "label": "後宮嬉戯の図　（山西省雲岡）　[第19回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r11",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p11"
+            ],
+            "label": "西方窟全景　二　（山西省雲岡）　[第19回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r12",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p12"
+            ],
+            "label": "礼讃の女像　（山西省雲岡）　[第19回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r13",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p13"
+            ],
+            "label": "寒泉洞支提塔　（山西省雲岡）　[第19回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r14",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p14"
+            ],
+            "label": "多面多臂神　（山西省雲岡）　[第19回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r15",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p15"
+            ],
+            "label": "古北口の街　[第20回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r16",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p16"
+            ],
+            "label": "駄驕　（熱河附近）　[第20回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r17",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p17"
+            ],
+            "label": "峡中の船　（灤河）　[第18回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r18",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p18"
+            ],
+            "label": "午時の一ト息　（灤河）　[第18回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r19",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p19"
+            ],
+            "label": "沿岸の小市場　（灤河）　[第18回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r20",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p20"
+            ],
+            "label": "河水清　（灤河）　[第18回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r21",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p21"
+            ],
+            "label": "釈迦説法　（山西省雲岡）　[第19回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r22",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p22"
+            ],
+            "label": "丸彫の立像　（山西省雲岡）　[第19回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r23",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p23"
+            ],
+            "label": "六朝仏の典型　（山西省雲岡）　[第19回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r24",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p24"
+            ],
+            "label": "西方窟全景　一　（山西省雲岡）　[第19回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r25",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p25"
+            ],
+            "label": "相抱く双塔山　（熱河附近）　[第20回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r26",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p26"
+            ],
+            "label": "支那素麺　（北京郊外）　[第20回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r27",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p27"
+            ],
+            "label": "四ツ目井戸　（牛欄山）　[第20回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r28",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p28"
+            ],
+            "label": "看板の門　（北京郊外）　[第20回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r29",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p29"
+            ],
+            "label": "瘤お爺　（熱河附近）　[第20回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r30",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p30"
+            ],
+            "label": "古北口附近の長城　[第20回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r31",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p31"
+            ],
+            "label": "古北口を圧する万里の長城　[第20回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r32",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p32"
+            ],
+            "label": "枕売る小娘　（石匣）　[第20回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r33",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p33"
+            ],
+            "label": "正月の街飾り　（蛟河にて）　[第21回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r34",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p34"
+            ],
+            "label": "鏡泊湖の滝　（吉林省）　[第21回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r35",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p35"
+            ],
+            "label": "蛟河［ジヨーホ］の歳暮［くれ］の街［まち］　（額穆県）　[第21回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r36",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p36"
+            ],
+            "label": "吉林山中の杣小屋　（敦化附近）　[第21回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r37",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p37"
+            ],
+            "label": "山中の鴉片畑　（敦化県）　[第21回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r38",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p38"
+            ],
+            "label": "店［デン］の指標　（鏡泊湖の氷上にて）　[第21回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r39",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p39"
+            ],
+            "label": "鏡泊湖氷上の店［デン］　（吉林省）　[第21回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r40",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p40"
+            ],
+            "label": "双岔河の材木市場　（吉林省）　[第21回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r41",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p41"
+            ],
+            "label": "冬の老爺嶺　（吉林省）　[第21回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r42",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p42"
+            ],
+            "label": "棺材の木挽　（蛟河附近にて）　[第21回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r43",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p43"
+            ],
+            "label": "竹林　（杭州）　[第22回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r44",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p44"
+            ],
+            "label": "三潭印月　其の二　（杭州）　[第22回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r45",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p45"
+            ],
+            "label": "玉泉躍魚　（杭州）　[第22回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r46",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p46"
+            ],
+            "label": "三潭印月　其の一　（杭州）　[第22回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r47",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p47"
+            ],
+            "label": "西湖　（杭州）　[第22回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r48",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p48"
+            ],
+            "label": "保俶塔　（杭州）　[第22回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r49",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p49"
+            ],
+            "label": "西湖の画舫　（杭州）　[第22回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r50",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p50"
+            ],
+            "label": "漁舟　（南支）　[第22回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r51",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p51"
+            ],
+            "label": "轎子　（杭州）　[第22回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r52",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p52"
+            ],
+            "label": "湖畔の春　（杭州西湖にて）　[第22回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r53",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p53"
+            ],
+            "label": "長安寺　（朝鮮金剛山）　[第23回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r54",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p54"
+            ],
+            "label": "水売り　（山海関にて）　[第23回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r55",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p55"
+            ],
+            "label": "揺籃　（蒙古）　[第23回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r56",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p56"
+            ],
+            "label": "支那の葬式　其の一　（風俗）　[第23回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r57",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p57"
+            ],
+            "label": "支那の葬式　其の二　（風俗）　[第23回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r58",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p58"
+            ],
+            "label": "葬式の飾り物　（北京所見）　[第23回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r59",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p59"
+            ],
+            "label": "山海関城内　（京奉線）　[第23回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r60",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p60"
+            ],
+            "label": "蒙母　[第23回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r61",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p61"
+            ],
+            "label": "支那芸者　（風俗）　[第23回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r62",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p62"
+            ],
+            "label": "海金剛　（朝鮮金剛山）　[第23回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r63",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p63"
+            ],
+            "label": "宜昌港岸　[第24回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r64",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p64"
+            ],
+            "label": "民船の仮泊　[第24回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r65",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p65"
+            ],
+            "label": "三游洞　[第24回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r66",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p66"
+            ],
+            "label": "雨中の天柱山　[第24回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r67",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p67"
+            ],
+            "label": "煙雨の中の馬牙山　[第24回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r68",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p68"
+            ],
+            "label": "巫山峡中の信号場　[第24回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r69",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p69"
+            ],
+            "label": "洩灘の曳船　[第24回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r70",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p70"
+            ],
+            "label": "峡中の船着場　[第24回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r71",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p71"
+            ],
+            "label": "黄牛峡　[第24回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r72",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p72"
+            ],
+            "label": "雨後の巫山峡　[第24回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r73",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p73"
+            ],
+            "label": "峡中の塔　[第25回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r74",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p74"
+            ],
+            "label": "風箱峡（一）　[第25回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r75",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p75"
+            ],
+            "label": "風箱峡（二）　[第25回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r76",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p76"
+            ],
+            "label": "プラントの紀念碑　[第25回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r77",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p77"
+            ],
+            "label": "白帝城　[第25回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r78",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p78"
+            ],
+            "label": "巫山県の塩積船　[第25回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r79",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p79"
+            ],
+            "label": "夔府附近の臭塩磧　[第25回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r80",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p80"
+            ],
+            "label": "三峡の水標　[第25回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r81",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p81"
+            ],
+            "label": "洩灘の激流　[第25回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r82",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p82"
+            ],
+            "label": "雲陽県城　[第25回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r83",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p83"
+            ],
+            "label": "竹索　（三峡）　[第26回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r84",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p84"
+            ],
+            "label": "香渓の情致　（三峡）　[第26回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r85",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p85"
+            ],
+            "label": "帰州城　（三峡）　[第26回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r86",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p86"
+            ],
+            "label": "民船の仮泊　（三峡）　[第26回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r87",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p87"
+            ],
+            "label": "上石門の史跡　（三峡）　[第26回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r88",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p88"
+            ],
+            "label": "もの凄き崆舲峡　（三峡）　[第26回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r89",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p89"
+            ],
+            "label": "鍾乳洞の家　（三峡）　[第26回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r90",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p90"
+            ],
+            "label": "馬牙山　（三峡）　[第26回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r91",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p91"
+            ],
+            "label": "巫山直下を行く船　[第26回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r92",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p92"
+            ],
+            "label": "絶壁を通ずる索道　（三峡）　[第26回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r93",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p93"
+            ],
+            "label": "長江の筏　（楊子江口近くにて）　[第27回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r94",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p94"
+            ],
+            "label": "漢口の街　（湖北省）　[第27回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r95",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p95"
+            ],
+            "label": "漢口埠頭　（湖北省）　[第27回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r96",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p96"
+            ],
+            "label": "重慶の碼頭　（四川省）　[第27回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r97",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p97"
+            ],
+            "label": "水汲み　（重慶）　[第27回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r98",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p98"
+            ],
+            "label": "喪服の重慶土人　（重慶所見）　[第27回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r99",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p99"
+            ],
+            "label": "窓から覗いた重慶　（四川省）　[第27回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r100",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p100"
+            ],
+            "label": "だんだらの水田　（四川省）　[第27回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r101",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p101"
+            ],
+            "label": "貴州街道　（四川省）　[第27回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r102",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p102"
+            ],
+            "label": "牌楼　（成都街道所見）　[第27回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r103",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p103"
+            ],
+            "label": "天津市街　（直隷省）　[第28回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r104",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p104"
+            ],
+            "label": "棉花船　（白河河筋にて）　[第28回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r105",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p105"
+            ],
+            "label": "天津碼頭　（直隷省）　[第28回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r106",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p106"
+            ],
+            "label": "大沽の砲台　（白河々口）　[第28回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r107",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p107"
+            ],
+            "label": "水準標　（白河入口にて）　[第28回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r108",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p108"
+            ],
+            "label": "塩の山（一）　[第28回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r109",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p109"
+            ],
+            "label": "塩の山（二）　[第28回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r110",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p110"
+            ],
+            "label": "村の嫁入り（1）　[第28回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r111",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p111"
+            ],
+            "label": "嫁入り（2）　[第28回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r112",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p112"
+            ],
+            "label": "花楼　[第28回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r113",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p113"
+            ],
+            "label": "明陵稜恩殿　（南口明の十三陵）　[第29回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r114",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p114"
+            ],
+            "label": "明の牌楼　（南口明の十三陵）　[第29回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r115",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p115"
+            ],
+            "label": "牌楼の彫刻　（南口明の十三陵）　[第29回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r116",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p116"
+            ],
+            "label": "明陵の石人（文臣）　（南口明の十三陵）　[第29回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r117",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p117"
+            ],
+            "label": "明陵の石人（武臣）　（南口明の十三陵）　[第29回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r118",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p118"
+            ],
+            "label": "明陵の石獣（駱駝）　（南口明の十三陵）　[第29回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r119",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p119"
+            ],
+            "label": "明陵の石獣（麒麟）　（南口明の十三陵）　[第29回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r120",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p120"
+            ],
+            "label": "喇嘛説方碑亭　（北京雍和宮にて）　[第29回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r121",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p121"
+            ],
+            "label": "雍和宮の銅炉　（北京）　[第29回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r122",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p122"
+            ],
+            "label": "法服を着けたる喇嘛僧　（北京雍和宮にて）　[第29回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r123",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p123"
+            ],
+            "label": "窯場の鳥瞰　（直隷省）　[第30回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r124",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p124"
+            ],
+            "label": "彭城鎮の城門　（直隷省）　[第30回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r125",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p125"
+            ],
+            "label": "黄土の地層　（直隷省）　[第30回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r126",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p126"
+            ],
+            "label": "窯の内部　（直隷省）　[第30回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r127",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p127"
+            ],
+            "label": "窯から出された磁州焼　（直隷省）　[第30回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r128",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p128"
+            ],
+            "label": "磁州出の陶器　（直隷省）　[第30回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r129",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p129"
+            ],
+            "label": "釉をかける陶師　（直隷省）　[第30回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r130",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p130"
+            ],
+            "label": "陶枕　（直隷省）　[第30回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r131",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p131"
+            ],
+            "label": "鉢ものをつくる陶師　（直隷省）　[第30回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r132",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p132"
+            ],
+            "label": "成杯された鉢　（直隷省）　[第30回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r133",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p133"
+            ],
+            "label": "居庸関の旧址　（直隷省）　[第31回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r134",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p134"
+            ],
+            "label": "六国語の銘文　（居庸関）　[第31回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r135",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p135"
+            ],
+            "label": "アーチ内側の西蔵仏　（居庸関）　[第31回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r136",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p136"
+            ],
+            "label": "摩利紅の脇像　（居庸関）　[第31回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r137",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p137"
+            ],
+            "label": "摩利受（広目天）　（居庸関）　[第31回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r138",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p138"
+            ],
+            "label": "洞門上の迦楼羅と竜女　（居庸関）　[第31回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r139",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p139"
+            ],
+            "label": "摩利海の脇像（一）　（居庸関）　[第31回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r140",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p140"
+            ],
+            "label": "摩利清（持国天）　（居庸関）　[第31回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r141",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p141"
+            ],
+            "label": "摩利海の脇像（二）　（居庸関）　[第31回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r142",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p142"
+            ],
+            "label": "摩利海の脚を支ふる青鬼　（居庸関）　[第31回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r143",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p143"
+            ],
+            "label": "北京の大通り　（北京）　[第32回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r144",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p144"
+            ],
+            "label": "元宵節の灯篭　（北京）　[第32回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r145",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p145"
+            ],
+            "label": "胡同の静けさ　（北京）　[第32回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r146",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p146"
+            ],
+            "label": "暮れの北京　（北京）　[第32回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r147",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p147"
+            ],
+            "label": "爆竹を売る店　（北京）　[第32回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r148",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p148"
+            ],
+            "label": "盧溝橋　（北京郊外）　[第32回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r149",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p149"
+            ],
+            "label": "芦溝暁月　（北京郊外）　[第32回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r150",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p150"
+            ],
+            "label": "天壇の圜丘　（北京）　[第32回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r151",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p151"
+            ],
+            "label": "白雲観の絵提灯　（北京）　[第32回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r152",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p152"
+            ],
+            "label": "支那の乞丐　（北京所見）　[第32回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r153",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p153"
+            ],
+            "label": "燕塵　（北京附近）　[第33回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r154",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p154"
+            ],
+            "label": "大和殿　（北京）　[第33回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r155",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p155"
+            ],
+            "label": "大和殿前庭の金水橋　（北京）　[第33回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r156",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p156"
+            ],
+            "label": "昆明湖の駝脊橋　（北京郊外）　[第33回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r157",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p157"
+            ],
+            "label": "斬刀　（北京）　[第33回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r158",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p158"
+            ],
+            "label": "房山の雲居寺　（直隷房山）　[第33回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r159",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p159"
+            ],
+            "label": "雲居寺の石窟内部　（直隷房山）　[第33回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r160",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p160"
+            ],
+            "label": "雲居寺の石窟内部　（直隷房山）　[第33回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r161",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p161"
+            ],
+            "label": "峠越江　（八達嶺附近）　[第33回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r162",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p162"
+            ],
+            "label": "円明園の廃墟　（北京郊外）　[第33回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r163",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p163"
+            ],
+            "label": "呉門橋　（蘇州）　[第34回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r164",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p164"
+            ],
+            "label": "蘇州城内の鳥瞰　（南支）　[第34回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r165",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p165"
+            ],
+            "label": "蘇州の街　（南支）　[第34回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r166",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p166"
+            ],
+            "label": "楓橋　（蘇州）　[第34回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r167",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p167"
+            ],
+            "label": "水都蘇州　（南支）　[第34回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r168",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p168"
+            ],
+            "label": "瑞光寺塔　（蘇州）　[第34回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r169",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p169"
+            ],
+            "label": "水ぐわい売り　（南支所見）　[第34回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r170",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p170"
+            ],
+            "label": "麦稈細工をする少女　（蘇州所見）　[第34回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r171",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p171"
+            ],
+            "label": "蘇州あたりの運河　（南支）　[第34回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r172",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p172"
+            ],
+            "label": "麻晒し　（杭州）　[第34回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r173",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p173"
+            ],
+            "label": "遊覧道路　[第35回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r174",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p174"
+            ],
+            "label": "港橋　（大連市）　[第35回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r175",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p175"
+            ],
+            "label": "常盤橋　[第35回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r176",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p176"
+            ],
+            "label": "小平島　[第35回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r177",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p177"
+            ],
+            "label": "老虎灘街道の文化住宅　[第35回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r178",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p178"
+            ],
+            "label": "大連医院　[第35回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r179",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p179"
+            ],
+            "label": "石■［石の右に曹］屯（一）　[第35回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r180",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p180"
+            ],
+            "label": "忠霊塔　[第35回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r181",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p181"
+            ],
+            "label": "石■［石の右に曹］屯（二）　[第35回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/range/r182",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json/canvas/p182"
+            ],
+            "label": "王家屯の苦力部落　[第35回]"
         }
     ],
     "thumbnail": {

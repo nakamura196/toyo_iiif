@@ -4739,7 +4739,585 @@
                 }
             ],
             "label": "Current Page Order",
-            "viewingHint": "non-paged"
+            "viewingHint": "paged"
+        }
+    ],
+    "structures": [
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r2",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p2"
+            ],
+            "label": "◆目録[タイトル一覧]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r3",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p3"
+            ],
+            "label": "嶗山　（山東）　[第36回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r4",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p4"
+            ],
+            "label": "谿谷　（山東）　[第36回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r5",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p5"
+            ],
+            "label": "白雲洞附近　（山東）　[第36回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r6",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p6"
+            ],
+            "label": "招牌[カンバン]の起原　（山東）　[第36回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r7",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p7"
+            ],
+            "label": "九水の部落　（山東）　[第36回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r8",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p8"
+            ],
+            "label": "嶗山の山勢　（山東）　[第36回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r9",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p9"
+            ],
+            "label": "胡藤の花薫る　（山東）　[第36回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r10",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p10"
+            ],
+            "label": "白雲洞　（山東）　[第36回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r11",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p11"
+            ],
+            "label": "膠州湾　（山東）　[第36回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r12",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p12"
+            ],
+            "label": "筏の漁船　（山東）　[第36回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r13",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p13"
+            ],
+            "label": "済南の趵突泉　（山東省）　[第37回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r14",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p14"
+            ],
+            "label": "泰山の轎　（山東省）　[第37回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r15",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p15"
+            ],
+            "label": "泰山　（山東省）　[第37回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r16",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p16"
+            ],
+            "label": "泰安府泰廟　（山東省）　[第37回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r17",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p17"
+            ],
+            "label": "大成殿　（山東曲阜）　[第37回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r18",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p18"
+            ],
+            "label": "大明湖　（山東省済南）　[第37回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r19",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p19"
+            ],
+            "label": "洗濯　（山東にて）　[第37回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r20",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p20"
+            ],
+            "label": "帰り道　（山東にて）　[第37回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r21",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p21"
+            ],
+            "label": "水煙管　（済南にて）　[第37回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r22",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p22"
+            ],
+            "label": "玄陽洞　[第37回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r23",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p23"
+            ],
+            "label": "北響堂山の第二窟（1）　（河南省）　[第38回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r24",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p24"
+            ],
+            "label": "南響堂山の全景　（直隷省）　[第38回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r25",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p25"
+            ],
+            "label": "南響堂山下段窟第一窟の仙龕　（直隷省）　[第38回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r26",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p26"
+            ],
+            "label": "北響堂山第二窟（2）　（河南省）　[第38回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r27",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p27"
+            ],
+            "label": "北響堂山第二窟（3）　（河南省）　[第38回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r28",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p28"
+            ],
+            "label": "南響堂山の中段窟　（直隷省）　[第38回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r29",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p29"
+            ],
+            "label": "北響堂山第一窟　（河南省）　[第38回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r30",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p30"
+            ],
+            "label": "支提塔支ふる怪獣（北響堂山第三窟）　（河南省）　[第38回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r31",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p31"
+            ],
+            "label": "南響堂山下段窟第二窟の本尊仏　（直隷省）　[第38回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r32",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p32"
+            ],
+            "label": "北響堂山第三窟　（河南省）　[第38回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r33",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p33"
+            ],
+            "label": "開城市街　（朝鮮）　[第39回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r34",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p34"
+            ],
+            "label": "水汲み　（朝鮮）　[第39回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r35",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p35"
+            ],
+            "label": "水原城外　（朝鮮）　[第39回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r36",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p36"
+            ],
+            "label": "玉泉庵の白仏　（朝鮮京城郊外）　[第39回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r37",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p37"
+            ],
+            "label": "パゴダ公園の塔　（朝鮮京城）　[第39回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r38",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p38"
+            ],
+            "label": "白麻を乾す村　（朝鮮京城郊外）　[第39回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r39",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p39"
+            ],
+            "label": "北漢山の砂防工事　（朝鮮京城郊外）　[第39回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r40",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p40"
+            ],
+            "label": "大道易断　（朝鮮）　[第39回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r41",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p41"
+            ],
+            "label": "昌慶苑にて　（朝鮮京城）　[第39回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r42",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p42"
+            ],
+            "label": "京城郊外　（朝鮮）　[第39回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r43",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p43"
+            ],
+            "label": "刈穫リ　（南満金福沿線）　[第40回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r44",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p44"
+            ],
+            "label": "貔子窩海岸　（南満金福沿線）　[第40回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r45",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p45"
+            ],
+            "label": "塩田　（南満金福沿線貔子窩）　[第40回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r46",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p46"
+            ],
+            "label": "城子■［田の右に童］の街　（南満金福沿線）　[第40回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r47",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p47"
+            ],
+            "label": "碧流河々口　（南満金福沿線）　[第40回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r48",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p48"
+            ],
+            "label": "永安台の望台　（南満金福沿線）　[第40回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r49",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p49"
+            ],
+            "label": "秋影　（南満撫順附近にて）　[第40回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r50",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p50"
+            ],
+            "label": "亮甲店のドルメン　（南満金福沿線）　[第40回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r51",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p51"
+            ],
+            "label": "昿原の秋　（南満金福沿線）　[第40回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r52",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p52"
+            ],
+            "label": "植民する苦力群　（南満撫順附近にて）　[第40回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r53",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p53"
+            ],
+            "label": "燕麦の畑　（山西省）　[第41回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r54",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p54"
+            ],
+            "label": "曲陽附近の溝道　（山西省）　[第41回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r55",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p55"
+            ],
+            "label": "土雨の降る地　（山西省）　[第41回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r56",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p56"
+            ],
+            "label": "黄土の国　（山西省）　[第41回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r57",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p57"
+            ],
+            "label": "溝道中のある構図　（山西省）　[第41回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r58",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p58"
+            ],
+            "label": "五台県城外　（山西省）　[第41回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r59",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p59"
+            ],
+            "label": "五台県城　（山西省）　[第41回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r60",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p60"
+            ],
+            "label": "冬近き五台連峰　（山西省）　[第41回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r61",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p61"
+            ],
+            "label": "五台山途上　（山西省）　[第41回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r62",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p62"
+            ],
+            "label": "黄土の断崖　（山西省）　[第41回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r63",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p63"
+            ],
+            "label": "山路ゆく雲水　（山西省五台山）　[第42回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r64",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p64"
+            ],
+            "label": "南台の落日　（山西省五台山）　[第42回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r65",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p65"
+            ],
+            "label": "金閣嶺　（山西省）　[第42回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r66",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p66"
+            ],
+            "label": "五台の霊場めぐり　（山西省五台山）　[第42回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r67",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p67"
+            ],
+            "label": "北台途上　（山西省五台山）　[第42回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r68",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p68"
+            ],
+            "label": "豆鎮嶺の峠　（山西省）　[第42回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r69",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p69"
+            ],
+            "label": "五台の気象　（山西省五台山）　[第42回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r70",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p70"
+            ],
+            "label": "北台の異象　（山西省五台山）　[第42回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r71",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p71"
+            ],
+            "label": "北台の秋晴れ　（山西省五台山）　[第42回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r72",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p72"
+            ],
+            "label": "中台の雪景　（山西省五台山）　[第42回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/range/r75",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json/canvas/p75"
+            ],
+            "label": "山色新"
         }
     ],
     "thumbnail": {

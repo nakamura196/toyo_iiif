@@ -13,7 +13,7 @@
             "@type": "sc:Sequence",
             "canvases": [],
             "label": "Current Page Order",
-            "viewingHint": "non-paged"
+            "viewingHint": "paged"
         }
     ],
     "viewingDirection": "left-to-right"

@@ -3739,7 +3739,7 @@
                 }
             ],
             "label": "Current Page Order",
-            "viewingHint": "non-paged"
+            "viewingHint": "paged"
         }
     ],
     "thumbnail": {

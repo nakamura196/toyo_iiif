@@ -50,6 +50,26 @@ def get_id_image_map(df_media):
 
     return map
 
+def get_id_toc_map(df_toc):
+
+    map = {}
+
+    r_count = len(df_toc.index)
+
+    for j in range(1, r_count):
+
+        id = df_toc.iloc[j, 0]
+
+        if id not in map:
+            map[id] = []
+
+        map[id].append({
+            "page": int(df_toc.iloc[j, 1]),
+            "toc": df_toc.iloc[j, 2]
+        })
+
+    return map
+
 
 df_item = pd.read_excel("data/main.xlsx", sheet_name="item", header=None, index_col=None)
 df_media = pd.read_excel("data/main.xlsx", sheet_name="media", header=None, index_col=None)
@@ -67,6 +87,7 @@ license = "http://creativecommons.org/licenses/by/4.0/"
 '''
 
 id_image_map = get_id_image_map(df_media)
+id_toc_map = get_id_toc_map(df_toc)
 
 map = {}
 
@@ -99,6 +120,8 @@ for i in range(0, c_count):
         within_index = i
     if label == "viewingDirection":
         viewingDirection_index = i
+    if label == "viewingHint":
+        viewingHint_index = i
     if uri == "http://purl.org/dc/terms/relation":
         related_index = i
     if label == "manifest":
@@ -132,6 +155,12 @@ for j in range(4, r_count):
                     "value" : value.strip()
                 })
 
+    viewingHint = "non-paged"
+    if viewingHint_index != None:
+        value = df_item.iloc[j, viewingHint_index]
+        if value == "http://iiif.io/api/presentation/2#pagedHint":
+            viewingHint = "paged"
+
     manifest = {
         "@context": "http://iiif.io/api/presentation/2/context.json",
         "@type": "sc:Manifest",
@@ -149,7 +178,7 @@ for j in range(4, r_count):
                 "@type": "sc:Sequence",
                 "@id": manifest_uri+"/sequence/normal",
                 "label": "Current Page Order",
-                "viewingHint": "non-paged",
+                "viewingHint": viewingHint,
                 "canvases": []
             }
         ]
@@ -268,6 +297,37 @@ for j in range(4, r_count):
                 # canvas["images"][0]["resource"]["service"]["height"] = height
 
             canvases.append(canvas)
+
+    print(len(canvases))
+
+    if id in id_toc_map:
+        tocs = id_toc_map[id]
+        structures = []
+        for i in range(len(tocs)):
+            toc_obj = tocs[i]
+            page = toc_obj["page"]
+            toc = toc_obj["toc"]
+
+            # print(len(canvases))
+            # print(page)
+
+            range_id = manifest_uri + "/range/r" + str(page)
+
+            canvas_id = canvases[page-1]["@id"]
+
+            obj = {
+                "@id": range_id,
+                "@type": "sc:Range",
+                "canvases": [
+                    canvas_id
+                ],
+                "label": toc
+            }
+            structures.append(obj)
+
+        if len(structures) > 0:
+            manifest["structures"] = structures
+
 
     opath = manifest_uri.replace(prefix, odir)
     tmp = os.path.split(opath)
