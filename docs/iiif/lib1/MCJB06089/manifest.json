@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB06089/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫",
+    "label": "凌陞ソ連通謀事犯ノ概要ト軍法会議ノ判決 ／ 国民資料編纂所．",
+    "license": "http://www.tbcas.jp/ja/site.html",
+    "metadata": [
+        {
+            "label": "請求記号",
+            "value": "6089"
+        },
+        {
+            "label": "出版事項",
+            "value": "東京 ： 国民資料編纂所，1936．"
+        },
+        {
+            "label": "形態的記述",
+            "value": "61p ； 27cm．"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB06089/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB06089/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "label": "Current Page Order",
+            "viewingHint": "paged"
+        }
+    ],
+    "viewingDirection": "left-to-right"
+}

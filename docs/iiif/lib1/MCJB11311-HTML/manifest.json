@@ -1,0 +1,37 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11311-HTML/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫",
+    "label": "淮南炭礦及び鉄道事業報告 ／ [淮南煤礦局編] ； 興亜院華中連絡部[訳]．",
+    "license": "http://www.tbcas.jp/ja/site.html",
+    "metadata": [
+        {
+            "label": "請求記号",
+            "value": "11311"
+        },
+        {
+            "label": "出版事項",
+            "value": "[出版地上明] ： 興亜院華中連絡部，1942．"
+        },
+        {
+            "label": "形態的記述",
+            "value": "114p ： 地図，表 ； 23cm．"
+        },
+        {
+            "label": "叢書吊",
+            "value": "（編訳彙報 ； 第89編）"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11311-HTML/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11311-HTML/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "label": "Current Page Order",
+            "viewingHint": "paged"
+        }
+    ],
+    "viewingDirection": "left-to-right"
+}

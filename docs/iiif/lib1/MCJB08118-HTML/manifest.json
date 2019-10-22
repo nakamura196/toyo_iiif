@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB08118-HTML/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫",
+    "label": "統一途上ニ於ケル支那朝野ノ趨向ニ就テ ／ 中国経済研究所．",
+    "license": "http://www.tbcas.jp/ja/site.html",
+    "metadata": [
+        {
+            "label": "請求記号",
+            "value": "8118"
+        },
+        {
+            "label": "出版事項",
+            "value": "[出版地上明] ： 中国経済研究所，1937．"
+        },
+        {
+            "label": "形態的記述",
+            "value": "70p ： 表 ； 23cm．"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB08118-HTML/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB08118-HTML/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "label": "Current Page Order",
+            "viewingHint": "paged"
+        }
+    ],
+    "viewingDirection": "left-to-right"
+}

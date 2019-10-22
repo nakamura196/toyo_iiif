@@ -1,0 +1,37 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01781/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫",
+    "label": "第三期第二次参政会特輯 ： 昭和十八年九月十八日開会同九月二十七日閉会 ／ 同盟通信社南支総局資料室[編]．",
+    "license": "http://www.tbcas.jp/ja/site.html",
+    "metadata": [
+        {
+            "label": "請求記号",
+            "value": "1781"
+        },
+        {
+            "label": "出版事項",
+            "value": "[出版地上明] ： 同盟通信社南支総局資料室，1943．"
+        },
+        {
+            "label": "形態的記述",
+            "value": "55p ； 18×25cm．"
+        },
+        {
+            "label": "叢書吊",
+            "value": "（資料 ； 58号）"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01781/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01781/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "label": "Current Page Order",
+            "viewingHint": "paged"
+        }
+    ],
+    "viewingDirection": "left-to-right"
+}

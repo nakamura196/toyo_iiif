@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB06385/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫",
+    "label": "中国人民対日作戦基本綱領 ／ 中国民族武装自衛委員会籌備会．",
+    "license": "http://www.tbcas.jp/ja/site.html",
+    "metadata": [
+        {
+            "label": "請求記号",
+            "value": "6385"
+        },
+        {
+            "label": "出版事項",
+            "value": "[出版地上明] ： 中国民族武装自衛委員会籌備会，[1934]．"
+        },
+        {
+            "label": "形態的記述",
+            "value": "16p ； 28cm．"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB06385/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB06385/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "label": "Current Page Order",
+            "viewingHint": "paged"
+        }
+    ],
+    "viewingDirection": "left-to-right"
+}

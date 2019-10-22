@@ -1,0 +1,37 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB02460/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫",
+    "label": "満洲ニ於ケル招墾適地調査参考資料 ： 満洲ニ於ケル可耕未耕地面積調 ／ 満鉄経済調査会[編]．",
+    "license": "http://www.tbcas.jp/ja/site.html",
+    "metadata": [
+        {
+            "label": "請求記号",
+            "value": "2460"
+        },
+        {
+            "label": "出版事項",
+            "value": "[大連] ： 満鉄経済調査会，1936．"
+        },
+        {
+            "label": "形態的記述",
+            "value": "34p ； 27cm．"
+        },
+        {
+            "label": "叢書吊",
+            "value": "（保 ； No. 1962）（丙資分 ； 331.2）"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB02460/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB02460/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "label": "Current Page Order",
+            "viewingHint": "paged"
+        }
+    ],
+    "viewingDirection": "left-to-right"
+}

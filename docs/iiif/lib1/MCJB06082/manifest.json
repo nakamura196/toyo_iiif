@@ -1,0 +1,37 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB06082/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫",
+    "label": "中国の対外貿易と輸出力 ： とくに第二次五カ年計画期の展望 ／ 経済企画庁調査局海外調査課．",
+    "license": "http://www.tbcas.jp/ja/site.html",
+    "metadata": [
+        {
+            "label": "請求記号",
+            "value": "6082"
+        },
+        {
+            "label": "出版事項",
+            "value": "[出版地上明] ： 経済企画庁調査局海外調査課，1959．"
+        },
+        {
+            "label": "形態的記述",
+            "value": "57p ； 25cm．"
+        },
+        {
+            "label": "叢書吊",
+            "value": "（経企調外 ； 昭34第9号）"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB06082/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB06082/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "label": "Current Page Order",
+            "viewingHint": "paged"
+        }
+    ],
+    "viewingDirection": "left-to-right"
+}

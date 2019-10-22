@@ -1,0 +1,41 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB04558/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫",
+    "label": "東支鉄道年報 ／ 東支鉄道経済調査局．",
+    "license": "http://www.tbcas.jp/ja/site.html",
+    "metadata": [
+        {
+            "label": "請求記号",
+            "value": "4558"
+        },
+        {
+            "label": "巻次",
+            "value": "1927年度．"
+        },
+        {
+            "label": "出版事項",
+            "value": "[出版地上明] ： 満鉄哈爾浜事務所調査課，1927．"
+        },
+        {
+            "label": "形態的記述",
+            "value": "230p ： 表 ； 27cm．"
+        },
+        {
+            "label": "叢書吊",
+            "value": "（哈調資料）"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB04558/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB04558/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "label": "Current Page Order",
+            "viewingHint": "paged"
+        }
+    ],
+    "viewingDirection": "left-to-right"
+}

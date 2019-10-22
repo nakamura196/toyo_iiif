@@ -1,0 +1,37 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB00369/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫",
+    "label": "開拓農業実験場営農成績概要 ／ [満州国興農部]開拓総局[編]．",
+    "license": "http://www.tbcas.jp/ja/site.html",
+    "metadata": [
+        {
+            "label": "請求記号",
+            "value": "369"
+        },
+        {
+            "label": "出版事項",
+            "value": "[出版地上明] ： 開拓総局，1941．"
+        },
+        {
+            "label": "形態的記述",
+            "value": "97p ： 表 ； 22cm．"
+        },
+        {
+            "label": "叢書吊",
+            "value": "（開拓総局資料 ； 第9号）（営農資料 ； 第3号）"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB00369/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB00369/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "label": "Current Page Order",
+            "viewingHint": "paged"
+        }
+    ],
+    "viewingDirection": "left-to-right"
+}

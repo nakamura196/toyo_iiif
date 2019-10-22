@@ -1,0 +1,41 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB12194-HTML/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫",
+    "label": "抗戦支那農業農村問題関係資料 ／ 東亜研究所上海支所[編]．",
+    "license": "http://www.tbcas.jp/ja/site.html",
+    "metadata": [
+        {
+            "label": "請求記号",
+            "value": "12194"
+        },
+        {
+            "label": "巻次",
+            "value": "其の1-3．"
+        },
+        {
+            "label": "出版事項",
+            "value": "[上海] ： 東亜研究所上海支所，1940．"
+        },
+        {
+            "label": "形態的記述",
+            "value": "1冊 ； 26cm．"
+        },
+        {
+            "label": "叢書吊",
+            "value": "（上支資料 ； 第3-5号）"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB12194-HTML/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB12194-HTML/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "label": "Current Page Order",
+            "viewingHint": "paged"
+        }
+    ],
+    "viewingDirection": "left-to-right"
+}

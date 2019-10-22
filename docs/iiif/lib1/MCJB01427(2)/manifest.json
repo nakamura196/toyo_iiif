@@ -1,0 +1,41 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01427(2)/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫",
+    "label": "康徳三年度農村実態調査報告書 ： 戸別調査之部 ／ 国務院実業部臨時産業調査局[編]．",
+    "license": "http://www.tbcas.jp/ja/site.html",
+    "metadata": [
+        {
+            "label": "請求記号",
+            "value": "1427"
+        },
+        {
+            "label": "巻次",
+            "value": "第1-4分冊，正誤表．"
+        },
+        {
+            "label": "出版事項",
+            "value": "新京 ： 国務院実業部臨時産業調査局，1936．"
+        },
+        {
+            "label": "形態的記述",
+            "value": "5冊 ； 27-31cm．"
+        },
+        {
+            "label": "叢書吊",
+            "value": "（産調資料 ； 36）"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01427(2)/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01427(2)/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "label": "Current Page Order",
+            "viewingHint": "paged"
+        }
+    ],
+    "viewingDirection": "left-to-right"
+}

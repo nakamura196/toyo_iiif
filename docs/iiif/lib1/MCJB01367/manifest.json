@@ -1,0 +1,41 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01367/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫",
+    "label": "農産物収穫高調査資料 ／ 国務院実業部臨時産業調査局[編]．",
+    "license": "http://www.tbcas.jp/ja/site.html",
+    "metadata": [
+        {
+            "label": "請求記号",
+            "value": "1367"
+        },
+        {
+            "label": "巻次",
+            "value": "康徳3年度．"
+        },
+        {
+            "label": "出版事項",
+            "value": "[新京] ： 国務院実業部臨時産業調査局，1937．"
+        },
+        {
+            "label": "形態的記述",
+            "value": "165p，[1]枚 ： 地図 ； 30cm．"
+        },
+        {
+            "label": "叢書吊",
+            "value": "（産調資料 ； 49）"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01367/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB01367/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "label": "Current Page Order",
+            "viewingHint": "paged"
+        }
+    ],
+    "viewingDirection": "left-to-right"
+}
