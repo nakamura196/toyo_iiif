@@ -1,1 +1,93 @@
-[]
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/collection/top.json",
+    "@type": "sc:Collection",
+    "label": "亜東印画輯",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第1冊",
+            "thumbnail": "http://124.33.215.236/research/atoinga/001/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第2冊",
+            "thumbnail": "http://124.33.215.236/research/atoinga/002/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第3冊",
+            "thumbnail": "http://124.33.215.236/research/atoinga/003/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第4冊",
+            "thumbnail": "http://124.33.215.236/research/atoinga/004/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第5冊",
+            "thumbnail": "http://124.33.215.236/research/atoinga/005/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第6冊",
+            "thumbnail": "http://124.33.215.236/research/atoinga/006/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第7冊",
+            "thumbnail": "http://124.33.215.236/research/atoinga/007/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第8冊",
+            "thumbnail": "http://124.33.215.236/research/atoinga/008/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第9冊",
+            "thumbnail": "http://124.33.215.236/research/atoinga/009/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第10冊",
+            "thumbnail": "http://124.33.215.236/research/atoinga/010/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第11冊",
+            "thumbnail": "http://124.33.215.236/research/atoinga/011/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "亜東印画輯 第12冊",
+            "thumbnail": "http://124.33.215.236/research/atoinga/012/page2/thumbnail.jpg"
+        }
+    ],
+    "vhint": "use-thumb"
+}
