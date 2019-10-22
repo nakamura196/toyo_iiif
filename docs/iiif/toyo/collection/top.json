@@ -24,6 +24,13 @@
             "@type": "sc:Manifest",
             "label": "Ⅴ．動画 東アジア［図書部：研究部；東アジア資料研究班］ L1　中国祭祀演劇資料 I. 郷民儀禮 A.巡遊",
             "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMwUBCBCbnKi3Zgpp9q8kBaHwHDeylDS8DaHOjA40Th1KsMs5w"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/kashiwabara/collection/top.json",
+            "@type": "sc:Manifest",
+            "label": "柏原英一写真帳",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib2/001/page1/thumbnail.jpg"
         }
     ],
     "vhint": "use-thumb"
