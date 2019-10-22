@@ -141,7 +141,7 @@ for j in range(4, r_count):
         "label": title,
         # "logo": df_item.iloc[j, logo_index],
         # "within": df_item.iloc[j, within_index],
-        "viewingDirection": df_item.iloc[j, viewingDirection_index],
+        # "viewingDirection": df_item.iloc[j, viewingDirection_index],
         # "seeAlso": seeAlso,
         "related": relation,
         "sequences": [
@@ -155,13 +155,35 @@ for j in range(4, r_count):
         ]
     }
 
+    fields = [
+        {
+            "key": description_index,
+            "label": "description"
+        },
+        {
+            "key": attribution_index,
+            "label": "attribution"
+        }
+    ]
+
+    viewingDirection = "left-to-right"
+    if viewingDirection_index != None:
+        value = df_item.iloc[j, viewingDirection_index]
+        if value == "http://iiif.io/api/presentation/2#rightToLeftDirection":
+            viewingDirection = "right-to-left"
+    manifest["viewingDirection"] = viewingDirection
+
+    
+
     if len(metadata) > 0:
         manifest["metadata"] = metadata
 
-    if description_index != None:
-        value = df_item.iloc[j, description_index]
-        if not pd.isnull(value) and value != 0:
-            manifest["description"] = value
+    for obj in fields:
+
+        if obj["key"] != None:
+            value = df_item.iloc[j, obj["key"]]
+            if not pd.isnull(value) and value != 0:
+                manifest[obj["label"]] = value
 
     canvases = manifest["sequences"][0]["canvases"]
 
