@@ -31,6 +31,7 @@ for book in range(1, 13):
             try:
                 html = urllib.request.urlopen(url)
             except:
+                print(url)
                 loop_flg = False
                 continue
 

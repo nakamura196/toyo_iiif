@@ -249,7 +249,6 @@ for j in range(4, r_count):
             else:
                 img_id = img_url
 
-                print(img_obj)
                 thumbnail = img_obj["thumbnail"]
 
                 width = img_obj["width"]
@@ -298,8 +297,6 @@ for j in range(4, r_count):
 
             canvases.append(canvas)
 
-    print(len(canvases))
-
     if id in id_toc_map:
         tocs = id_toc_map[id]
         structures = []
@@ -307,9 +304,6 @@ for j in range(4, r_count):
             toc_obj = tocs[i]
             page = toc_obj["page"]
             toc = toc_obj["toc"]
-
-            # print(len(canvases))
-            # print(page)
 
             range_id = manifest_uri + "/range/r" + str(page)
 

@@ -3736,10 +3736,2360 @@
                         "@id": "http://124.33.215.236/research/atoinga/005/page150/thumbnail.jpg"
                     },
                     "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p150",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p150-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p150",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page151/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[150]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page151/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p151",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p151-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p151",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page152/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[151]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page152/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p152",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p152-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p152",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page153/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[152]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page153/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p153",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p153-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p153",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page154/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[153]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page154/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p154",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p154-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p154",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page155/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[154]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page155/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p155",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p155-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p155",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page156/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[155]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page156/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p156",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p156-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p156",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page157/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[156]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page157/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p157",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p157-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p157",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page158/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[157]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page158/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p158",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p158-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p158",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page159/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[158]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page159/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p159",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p159-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p159",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page160/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[159]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page160/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p160",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p160-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p160",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page161/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[160]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page161/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p161",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p161-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p161",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page162/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[161]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page162/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p162",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p162-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p162",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page163/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[162]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page163/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p163",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p163-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p163",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page164/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[163]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page164/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p164",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p164-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p164",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page165/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[164]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page165/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p165",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p165-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p165",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page166/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[165]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page166/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p166",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p166-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p166",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page167/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[166]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page167/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p167",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p167-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p167",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page168/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[167]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page168/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p168",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p168-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p168",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page169/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[168]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page169/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p169",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p169-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p169",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page170/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[169]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page170/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p170",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p170-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p170",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page171/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[170]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page171/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p171",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p171-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p171",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page172/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[171]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page172/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p172",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p172-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p172",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page173/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[172]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page173/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p173",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p173-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p173",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page174/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[173]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page174/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p174",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p174-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p174",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page175/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[174]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page175/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p175",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p175-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p175",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page176/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[175]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page176/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p176",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p176-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p176",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page177/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[176]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page177/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p177",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p177-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p177",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page178/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[177]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page178/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p178",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p178-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p178",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page179/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[178]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page179/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p179",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p179-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p179",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page180/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[179]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page180/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p180",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p180-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p180",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page181/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[180]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page181/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p181",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p181-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p181",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page182/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[181]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page182/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p182",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p182-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p182",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page183/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[182]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page183/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p183",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p183-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p183",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page184/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[183]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page184/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p184",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p184-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p184",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page185/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[184]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page185/thumbnail.jpg"
+                    },
+                    "width": 975
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p185",
+                    "@type": "sc:Canvas",
+                    "height": 760,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/annotation/p185-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p185",
+                            "resource": {
+                                "@id": "http://124.33.215.236/research/atoinga/005/page186/x1.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 760,
+                                "width": 975
+                            }
+                        }
+                    ],
+                    "label": "[185]",
+                    "thumbnail": {
+                        "@id": "http://124.33.215.236/research/atoinga/005/page186/thumbnail.jpg"
+                    },
+                    "width": 975
                 }
             ],
             "label": "Current Page Order",
             "viewingHint": "paged"
+        }
+    ],
+    "structures": [
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r2",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p2"
+            ],
+            "label": "◆目録[タイトル一覧]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r3",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p3"
+            ],
+            "label": "民家の源流　（浙江省・寧波）　[第72回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r4",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p4"
+            ],
+            "label": "寧波の問屋町　（浙江省）　[第72回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r5",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p5"
+            ],
+            "label": "寧波の町　（浙江省）　[第72回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r6",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p6"
+            ],
+            "label": "水郷の廟　（浙江省・寧波）　[第72回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r7",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p7"
+            ],
+            "label": "寧波碼頭　（浙江省）　[第72回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r8",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p8"
+            ],
+            "label": "氷墻　（浙江省・寧波）　[第72回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r9",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p9"
+            ],
+            "label": "水郷点景　（浙江省・銭塘江）　[第72回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r10",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p10"
+            ],
+            "label": "蘭谿［ランチイ］　（浙江省・銭塘江）　[第72回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r11",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p11"
+            ],
+            "label": "桐廬［トンロウ］　（浙江省・銭塘江）　[第72回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r12",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p12"
+            ],
+            "label": "東陽江の竹筏　（浙江省・銭塘江）　[第72回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r13",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p13"
+            ],
+            "label": "雲海　（湖南省・南岳）　[第73回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r14",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p14"
+            ],
+            "label": "南岳七十二峯　（湖南省・南岳）　[第73回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r15",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p15"
+            ],
+            "label": "望日台　（湖南省・南岳）　[第73回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r16",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p16"
+            ],
+            "label": "山中の農家　（湖南省・南岳）　[第73回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r17",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p17"
+            ],
+            "label": "苗とり　（湖南省）　[第73回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r18",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p18"
+            ],
+            "label": "念菴松　（湖南省・南岳）　[第73回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r19",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p19"
+            ],
+            "label": "山中の水田　（湖南省・南岳）　[第73回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r20",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p20"
+            ],
+            "label": "南岳廟の石坊　（湖南省・南岳）　[第73回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r21",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p21"
+            ],
+            "label": "南岳本廟　（湖南省・南岳）　[第73回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r22",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p22"
+            ],
+            "label": "平和さうな麓の村　（湖南省・南岳）　[第73回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r23",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p23"
+            ],
+            "label": "洞庭湖　（湖南省）　[第74回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r24",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p24"
+            ],
+            "label": "長沙　（湖南省）　[第74回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r25",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p25"
+            ],
+            "label": "天心閣　（湖南省・長沙）　[第74回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r26",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p26"
+            ],
+            "label": "長沙の街　（湖南省）　[第74回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r27",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p27"
+            ],
+            "label": "物々しい標語処　（湖南省・長沙）　[第74回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r28",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p28"
+            ],
+            "label": "汨羅水　（湖南省）　[第74回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r29",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p29"
+            ],
+            "label": "岳麓山　（湖南省・長沙）　[第74回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r30",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p30"
+            ],
+            "label": "岳麓書院　（湖南省・長沙）　[第74回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r31",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p31"
+            ],
+            "label": "賈太伝故宅　（湖南省・長沙）　[第74回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r32",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p32"
+            ],
+            "label": "湘潭　（湖南省）　[第74回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r33",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p33"
+            ],
+            "label": "袁州城外の舟橋　（江西省）　[第75回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r34",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p34"
+            ],
+            "label": "玉山の町　（江西省）　[第75回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r35",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p35"
+            ],
+            "label": "袁州　（江西省）　[第75回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r36",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p36"
+            ],
+            "label": "萍郷炭砿　（江西省）　[第75回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r37",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p37"
+            ],
+            "label": "南昌　（江西省）　[第75回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r38",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p38"
+            ],
+            "label": "娄妃の墓　（江西省）　[第75回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r39",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p39"
+            ],
+            "label": "南昌の一点景　（江西省）　[第75回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r40",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p40"
+            ],
+            "label": "南昌の百花園　（江西省）　[第75回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r41",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p41"
+            ],
+            "label": "文筆塔　（江西省）　[第75回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r42",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p42"
+            ],
+            "label": "表忠塔　（江西省）　[第75回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r43",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p43"
+            ],
+            "label": "大漢陽峯　（江西省、廬山）　[第76回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r44",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p44"
+            ],
+            "label": "廬山より眺めた鄱水　（江西省）　[第76回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r45",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p45"
+            ],
+            "label": "大月山　（江西省、廬山）　[第76回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r46",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p46"
+            ],
+            "label": "石門澗　（江西省、廬山）　[第76回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r47",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p47"
+            ],
+            "label": "廬山　（江西省）　[第76回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r48",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p48"
+            ],
+            "label": "廬山高石坊　（江西省）　[第76回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r49",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p49"
+            ],
+            "label": "香炉峯　（江西省、廬山）　[第76回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r50",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p50"
+            ],
+            "label": "暮れゆく廬山　（江西省）　[第76回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r51",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p51"
+            ],
+            "label": "天池山　（江西省、廬山）　[第76回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r52",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p52"
+            ],
+            "label": "五老嶺　（江西省、廬山）　[第76回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r53",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p53"
+            ],
+            "label": "媳婆塔　（江西省廬山）　[第77回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r54",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p54"
+            ],
+            "label": "牯嶺の登山路　（江西省廬山）　[第77回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r55",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p55"
+            ],
+            "label": "牯嶺の避暑地　（江西省廬山）　[第77回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r56",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p56"
+            ],
+            "label": "文珠台　（江西省廬山）　[第77回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r57",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p57"
+            ],
+            "label": "虎渓　（江西省廬山）　[第77回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r58",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p58"
+            ],
+            "label": "白鹿洞書院　（江西省廬山）　[第77回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r59",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p59"
+            ],
+            "label": "仙人洞　（江西省廬山）　[第77回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r60",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p60"
+            ],
+            "label": "慧遠禅師塔　（江西省廬山）　[第77回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r61",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p61"
+            ],
+            "label": "海会寺　（江西省廬山）　[第77回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r62",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p62"
+            ],
+            "label": "蓮花洞登山口　（江西省廬山）　[第77回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r63",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p63"
+            ],
+            "label": "モダン漢口　（湖北省）　[第78回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r64",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p64"
+            ],
+            "label": "武漢三鎮　（湖北省）　[第78回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r65",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p65"
+            ],
+            "label": "黄鶴楼趾を望む　（湖北省・武昌）　[第78回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r66",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p66"
+            ],
+            "label": "漢陽城趾　（湖北省）　[第78回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r67",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p67"
+            ],
+            "label": "黄鵠山下の万年灯　（湖北省・武昌）　[第78回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r68",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p68"
+            ],
+            "label": "武昌の大路　（湖北省）　[第78回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r69",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p69"
+            ],
+            "label": "革命紀念堂　（湖北省・武昌）　[第78回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r70",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p70"
+            ],
+            "label": "漢口バンド　（湖北省）　[第78回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r71",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p71"
+            ],
+            "label": "漢陽鉄廠　（湖北省）　[第78回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r72",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p72"
+            ],
+            "label": "中山公園　（湖北省・漢口）　[第78回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r73",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p73"
+            ],
+            "label": "長江を望む　（石鐘山）　（江西省）　[第79回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r74",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p74"
+            ],
+            "label": "鄱陽湖口　（江西省）　[第79回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r75",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p75"
+            ],
+            "label": "石鐘山　（江西省）　[第79回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r76",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p76"
+            ],
+            "label": "坯房の内部　（江西省・景徳鎮）　[第79回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r77",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p77"
+            ],
+            "label": "九江人形　（江西省）　[第79回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r78",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p78"
+            ],
+            "label": "藍摺り　（江西省・景徳鎮）　[第79回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r79",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p79"
+            ],
+            "label": "焼窰　（江西省・景徳鎮）　[第79回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r80",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p80"
+            ],
+            "label": "長江の筏　（江西省）　[第79回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r81",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p81"
+            ],
+            "label": "筏索の轆轤巻き　（江西省）　[第79回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r82",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p82"
+            ],
+            "label": "景徳鎮　（江西省）　[第79回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r83",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p83"
+            ],
+            "label": "長江スナップ　（江西省）　[第80回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r84",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p84"
+            ],
+            "label": "甘棠湖　（江西省、九江）　[第80回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r85",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p85"
+            ],
+            "label": "九江　（江西省）　[第80回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r86",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p86"
+            ],
+            "label": "南康の衙門　（江西省）　[第80回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r87",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p87"
+            ],
+            "label": "潯陽江頭　（江西省）　[第80回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r88",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p88"
+            ],
+            "label": "長江の漁撈　（江西省）　[第80回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r89",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p89"
+            ],
+            "label": "共匪を見張る兵隊　（江西省）　[第80回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r90",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p90"
+            ],
+            "label": "南康城内　（江西省）　[第80回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r91",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p91"
+            ],
+            "label": "民家の竃　（江西省）　[第80回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r92",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p92"
+            ],
+            "label": "九江の陶器商　（江西省）　[第80回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r93",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p93"
+            ],
+            "label": "芝罘港　[第81回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r94",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p94"
+            ],
+            "label": "山東角灯台　[第81回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r95",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p95"
+            ],
+            "label": "渤海湾頭　[第81回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r96",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p96"
+            ],
+            "label": "碾臼の街　[第81回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r97",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p97"
+            ],
+            "label": "登州の水城　[第81回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r98",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p98"
+            ],
+            "label": "牟平城外　[第81回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r99",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p99"
+            ],
+            "label": "莱州城　[第81回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r100",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p100"
+            ],
+            "label": "風旗子　[第81回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r101",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p101"
+            ],
+            "label": "娘々尾　[第81回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r102",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p102"
+            ],
+            "label": "威海衛劉公島　[第81回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r103",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p103"
+            ],
+            "label": "牟平県城　（山東省）　[第82回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r104",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p104"
+            ],
+            "label": "養馬島　（山東省）　[第82回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r105",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p105"
+            ],
+            "label": "石島　（山東省）　[第82回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r106",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p106"
+            ],
+            "label": "括網の打印　（山東省・栄城湾）　[第82回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r107",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p107"
+            ],
+            "label": "山東白菜　（山東省・芝罘）　[第82回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r108",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p108"
+            ],
+            "label": "小蓬莱　（山東省・芝罘）　[第82回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r109",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p109"
+            ],
+            "label": "福山県城　（山東省）　[第82回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r110",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p110"
+            ],
+            "label": "蓬莱閣　（山東省）　[第82回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r111",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p111"
+            ],
+            "label": "春近き漁村　（山東省・栄城湾）　[第82回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r112",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p112"
+            ],
+            "label": "芝罘市街　（山東省）　[第82回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r113",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p113"
+            ],
+            "label": "捕鯨砲　（南満・長山列島）　[第83回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r114",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p114"
+            ],
+            "label": "捕鯨船　（南満・長山列島）　[第83回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r115",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p115"
+            ],
+            "label": "捕鯨船の司令塔　（南満・長山列島）　[第83回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r116",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p116"
+            ],
+            "label": "捕鯨作業場　（南満・長山列島）　[第83回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r117",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p117"
+            ],
+            "label": "解体　（満洲・長山列島）　[第83回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r118",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p118"
+            ],
+            "label": "海洋島海岸　（南満・長山列島）　[第83回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r119",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p119"
+            ],
+            "label": "海洋島　（南満・長山列島）　[第83回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r120",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p120"
+            ],
+            "label": "大長山四塊石屯　（南満・長山列島）　[第83回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r121",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p121"
+            ],
+            "label": "大長山戦跡記念碑　（南満・長山列島）　[第83回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r122",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p122"
+            ],
+            "label": "海洋島断崖　（南満・長山列島）　[第83回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r123",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p123"
+            ],
+            "label": "平和記念塔　（上海）　[第84回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r124",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p124"
+            ],
+            "label": "上海港（一）　（上海）　[第84回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r125",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p125"
+            ],
+            "label": "上海港（二）　（上海）　[第84回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r126",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p126"
+            ],
+            "label": "上海河南路　（上海）　[第84回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r127",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p127"
+            ],
+            "label": "小鳥屋　（上海）　[第84回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r128",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p128"
+            ],
+            "label": "大道書舗　（上海）　[第84回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r129",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p129"
+            ],
+            "label": "虹口マーケツト　（上海）　[第84回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r130",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p130"
+            ],
+            "label": "仏蘭西租界　（上海）　[第84回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r131",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p131"
+            ],
+            "label": "湖心亭　（上海）　[第84回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r132",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p132"
+            ],
+            "label": "青蓮閣　（上海）　[第84回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r133",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p133"
+            ],
+            "label": "山東省政府　（済南）　[第85回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r134",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p134"
+            ],
+            "label": "済南市街　[第85回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r135",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p135"
+            ],
+            "label": "黄河の鉄橋　（済南附近）　[第85回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r136",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p136"
+            ],
+            "label": "済南の環城道路　[第85回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r137",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p137"
+            ],
+            "label": "大明湖　（済南）　[第85回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r138",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p138"
+            ],
+            "label": "模範監獄　（済南）　[第85回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r139",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p139"
+            ],
+            "label": "監獄内の裁縫場　（済南）　[第85回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r140",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p140"
+            ],
+            "label": "監獄内の音楽教化　（済南）　[第85回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r141",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p141"
+            ],
+            "label": "監獄内の武術稽古　（済南）　[第85回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r142",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p142"
+            ],
+            "label": "黄河の渡船　（済南）　[第85回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r143",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p143"
+            ],
+            "label": "岱廟の無字碑　（山東泰山）　[第86回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r144",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p144"
+            ],
+            "label": "雲煙の美　その一　（山東泰山）　[第86回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r145",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p145"
+            ],
+            "label": "雲煙の美　その二　（山東泰山）　[第86回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r146",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p146"
+            ],
+            "label": "雪歩橋　（山東泰山）　[第86回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r147",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p147"
+            ],
+            "label": "五太夫松　（山東泰山）　[第86回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r148",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p148"
+            ],
+            "label": "南天門　（山東泰山）　[第86回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r149",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p149"
+            ],
+            "label": "泰山　（山東泰山）　[第86回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r150",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p150"
+            ],
+            "label": "泰安府　（山東泰山）　[第86回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r151",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p151"
+            ],
+            "label": "天柱の尖頭　（山東泰山）　[第86回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r152",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p152"
+            ],
+            "label": "岱宗坊　（山東泰山）　[第86回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r153",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p153"
+            ],
+            "label": "淄川炭砿　（山東省）　[第87回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r154",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p154"
+            ],
+            "label": "坑夫街　（淄川）　[第87回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r155",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p155"
+            ],
+            "label": "周村鎮　（山東省）　[第87回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r156",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p156"
+            ],
+            "label": "淄川郊外　（山東省）　[第87回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r157",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p157"
+            ],
+            "label": "博山　その一　（山東省）　[第87回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r158",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p158"
+            ],
+            "label": "博山　その二　（山東省）　[第87回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r159",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p159"
+            ],
+            "label": "博山　その三　（山東省）　[第87回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r160",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p160"
+            ],
+            "label": "周村城外風景　（山東省）　[第87回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r161",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p161"
+            ],
+            "label": "周村の非常門　（山東省）　[第87回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r162",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p162"
+            ],
+            "label": "張店駅前　（山東省）　[第87回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r163",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p163"
+            ],
+            "label": "貝子廟の祭典へ　（東部蒙古）　[第88回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r164",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p164"
+            ],
+            "label": "旛旂と跳鬼　（東部蒙古）　[第88回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r165",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p165"
+            ],
+            "label": "福の神　（東部蒙古）　[第88回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r166",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p166"
+            ],
+            "label": "跳る天王母　（東部蒙古）　[第88回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r167",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p167"
+            ],
+            "label": "喇嘛の楽器　（東部蒙古）　[第88回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r168",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p168"
+            ],
+            "label": "正劇と喜劇　（東部蒙古）　[第88回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r169",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p169"
+            ],
+            "label": "盛装の貴婦人　（東部蒙古）　[第88回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r170",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p170"
+            ],
+            "label": "参詣の大衆　（東部蒙古）　[第88回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r171",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p171"
+            ],
+            "label": "焼き捨てる巴霊　（東部蒙古）　[第88回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r172",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p172"
+            ],
+            "label": "縁喜の幕を潜る　　（東部蒙古）　[第88回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r173",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p173"
+            ],
+            "label": "草原を越ゆれば沙漠　（東部蒙古）　[第89回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r174",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p174"
+            ],
+            "label": "牛糞拾ひ　（東部蒙古）　[第89回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r175",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p175"
+            ],
+            "label": "牛糞の貯蔵　（東部蒙古）　[第89回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r176",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p176"
+            ],
+            "label": "蒙古人の弓　（東部蒙古）　[第89回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r177",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p177"
+            ],
+            "label": "蒙古の相撲　（東部蒙古）　[第89回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r178",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p178"
+            ],
+            "label": "蒙古包　（東部蒙古）　[第89回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r179",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p179"
+            ],
+            "label": "興安嶺の固定包　（東部蒙古）　[第89回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r180",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p180"
+            ],
+            "label": "蒲鉾牛車　（東部蒙古）　[第89回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r181",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p181"
+            ],
+            "label": "陸の港　（東部蒙古）　[第89回]"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/range/r182",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/005/manifest.json/canvas/p182"
+            ],
+            "label": "曹達を運ぶ牛車の壮観　（東部蒙古）　[第89回]"
         }
     ],
     "thumbnail": {
