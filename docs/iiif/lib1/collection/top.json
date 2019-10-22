@@ -4984,523 +4984,610 @@
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11110-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "支那通信．"
+            "label": "支那通信．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11110/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11111-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "土地商租ニ関スル心得．"
+            "label": "土地商租ニ関スル心得．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11111/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11114-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "烟酒収入ノ研究．"
+            "label": "烟酒収入ノ研究．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11114/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11115-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "支那政局各派勢力分布略表．"
+            "label": "支那政局各派勢力分布略表．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11115/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11116-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "民国十一年末北京に於ける政党の状況 ： 十二年一月三日漢口新聞報記事に依る．"
+            "label": "民国十一年末北京に於ける政党の状況 ： 十二年一月三日漢口新聞報記事に依る．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11116/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11117-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "民国十二年初に於ける支那国会内の党派別 ： 民国十二年一月廿日申報掲載要領．"
+            "label": "民国十二年初に於ける支那国会内の党派別 ： 民国十二年一月廿日申報掲載要領．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11117/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11118-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "[中国国民党中央執行委員・監察委員一覧]．"
+            "label": "[中国国民党中央執行委員・監察委員一覧]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11118/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11119-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "支那銀行公会聯合会ニ於ケル重要決議．"
+            "label": "支那銀行公会聯合会ニ於ケル重要決議．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11119/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11120-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "中華民国憲法（未定稿）．"
+            "label": "中華民国憲法（未定稿）．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11120/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11121-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "支那憲法の制定 ／ 情報部第一課[著]．"
+            "label": "支那憲法の制定 ／ 情報部第一課[著]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11121/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11122-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "支那新旧両約法ノ関係．"
+            "label": "支那新旧両約法ノ関係．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11122/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11123-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "[清室優待条件の修正と宣統廃帝問題] ／ 情報部第一課．"
+            "label": "[清室優待条件の修正と宣統廃帝問題] ／ 情報部第一課．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11123/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11124-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "松花江黒龍江航行権問題 ： 大正八年十二月調．"
+            "label": "松花江黒龍江航行権問題 ： 大正八年十二月調．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11124/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11126-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "[独支協定と賠償・債務問題に関する資料]．"
+            "label": "[独支協定と賠償・債務問題に関する資料]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11126/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11127-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "[中国における治外法権撤廃問題に関する資料] ．"
+            "label": "[中国における治外法権撤廃問題に関する資料] ．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11127/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11128-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "陸軍部武器弾薬取締ニ関スル申請文並指令 ： 民国十三年一月七日政府公報．"
+            "label": "陸軍部武器弾薬取締ニ関スル申請文並指令 ： 民国十三年一月七日政府公報．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11128/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11129-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "支那ニ於ケル阿片取締法規（新[刑]律第21章）．"
+            "label": "支那ニ於ケル阿片取締法規（新[刑]律第21章）．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11129/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11130-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "商標法に関する支那政府の回答．"
+            "label": "商標法に関する支那政府の回答．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11130/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11131-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "借款団ト支那 ／ [外務省]情報部第一課[訳]．"
+            "label": "借款団ト支那 ／ [外務省]情報部第一課[訳]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11131/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11132-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "[上海郵便配達夫のストライキに関する資料]．"
+            "label": "[上海郵便配達夫のストライキに関する資料]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11132/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11133-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "[1925年2月，上海の日系紡績罷業に関する新聞切抜]．"
+            "label": "[1925年2月，上海の日系紡績罷業に関する新聞切抜]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11133/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11135-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "[関税特別会議に関する資料]．"
+            "label": "[関税特別会議に関する資料]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11135/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11136-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "新疆及「ソヴィエット《露国地方的通商条件締結ノ件．"
+            "label": "新疆及「ソヴィエット《露国地方的通商条件締結ノ件．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11136/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11137-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "米国海外貿易会議ト支那．"
+            "label": "米国海外貿易会議ト支那．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11137/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11138-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "国書問題ニ関スル支那政府ノ発表 ／ [中華民国外交部]著．"
+            "label": "国書問題ニ関スル支那政府ノ発表 ／ [中華民国外交部]著．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11138/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11139-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "渉外関係事件ニ対スル支那官民ノ態度報告ノ件．"
+            "label": "渉外関係事件ニ対スル支那官民ノ態度報告ノ件．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11139/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11140-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "日本ニ関スル支那新聞記事及論調 ／ [外務省]情報部第一課[著]．"
+            "label": "日本ニ関スル支那新聞記事及論調 ／ [外務省]情報部第一課[著]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11140/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11141-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "南満洲論 ／ [外務省]情報部第一課[著]．"
+            "label": "南満洲論 ／ [外務省]情報部第一課[著]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11141/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11142-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "五月七日前後ニ於ケル排日運動及輿論 ； 国恥記念日ニ於ケル李烈鈞ノ演説 ／ [外務省]情報部第一課．"
+            "label": "五月七日前後ニ於ケル排日運動及輿論 ； 国恥記念日ニ於ケル李烈鈞ノ演説 ／ [外務省]情報部第一課．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11142/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11143-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "[片馬問題資料]．"
+            "label": "[片馬問題資料]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11143/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11144-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "西蔵問題ニ関スル成都辺蔵討論会ノ通電要旨．"
+            "label": "西蔵問題ニ関スル成都辺蔵討論会ノ通電要旨．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11144/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11145-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "対支文化事業ニ対スル支那新聞記事及論調 ／ [外務省]情報部第一課著．"
+            "label": "対支文化事業ニ対スル支那新聞記事及論調 ／ [外務省]情報部第一課著．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11145/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11147-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "[長沙事件関係資料]．"
+            "label": "[長沙事件関係資料]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11147/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11149-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "[中国海軍関係資料]．"
+            "label": "[中国海軍関係資料]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11149/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11150-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "馬賊概況 ： 大正十二年八月調．"
+            "label": "馬賊概況 ： 大正十二年八月調．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11150/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11151-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "内外債整理委員会ノ成立 ／ [外務省]情報部第一課著．"
+            "label": "内外債整理委員会ノ成立 ／ [外務省]情報部第一課著．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11151/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11153-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "支那重要日誌 ： 大正十三年九月以降．"
+            "label": "支那重要日誌 ： 大正十三年九月以降．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11153/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11155-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "千九百二十三年支那ノ現勢．"
+            "label": "千九百二十三年支那ノ現勢．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11155/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11158-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "[中ソ交渉関係資料]．"
+            "label": "[中ソ交渉関係資料]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11158/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11159-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "[奉ソ協定関係資料]．"
+            "label": "[奉ソ協定関係資料]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11159/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11160-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "[大正11-14年日本政府の外交方針に関する資料]．"
+            "label": "[大正11-14年日本政府の外交方針に関する資料]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11160/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11161-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "支那ニ於ケル司法法規審査委員会条例ノ公布．"
+            "label": "支那ニ於ケル司法法規審査委員会条例ノ公布．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11161/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11163-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "[ワシントン会議の中国関係諸決議に関する資料]．"
+            "label": "[ワシントン会議の中国関係諸決議に関する資料]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11163/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11164-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "[山東懸案交渉関係文書] ／ 外務省．"
+            "label": "[山東懸案交渉関係文書] ／ 外務省．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11164/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11165-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "[団匪賠償金支払問題に関する資料]．"
+            "label": "[団匪賠償金支払問題に関する資料]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11165/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11166-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "日支共同出兵問題ノ経過．"
+            "label": "日支共同出兵問題ノ経過．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11166/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11167-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "支那財政ノ現状 ／ [外務省]情報部第一課[著]．"
+            "label": "支那財政ノ現状 ／ [外務省]情報部第一課[著]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11167/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11168-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "[1921-25年北京政府及び軍閥関係資料]．"
+            "label": "[1921-25年北京政府及び軍閥関係資料]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11168/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11275-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "全国経済委員会棉業統制委員会三年来工作報告 ／ 中支建設資料整備事務所編訳部[訳]．"
+            "label": "全国経済委員会棉業統制委員会三年来工作報告 ／ 中支建設資料整備事務所編訳部[訳]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11275/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11276-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "国民政府内外債整理委員会報告書 ／ 中支建設資料整備事務所編訳部[訳]．"
+            "label": "国民政府内外債整理委員会報告書 ／ 中支建設資料整備事務所編訳部[訳]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11276/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11279-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "ソ中関係年誌 ： 1917年-1957年．"
+            "label": "ソ中関係年誌 ： 1917年-1957年．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11279/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11285-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "回教圏攷究所設立趣旨．"
+            "label": "回教圏攷究所設立趣旨．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11285/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11309-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "広東省糧食調整問題 ／ 興亜院華中連絡部[訳編]．"
+            "label": "広東省糧食調整問題 ／ 興亜院華中連絡部[訳編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11309/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11310-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "洞庭湖浜の農村経済 ／ 興亜院華中連絡部[訳]．"
+            "label": "洞庭湖浜の農村経済 ／ 興亜院華中連絡部[訳]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11310/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11311-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "淮南炭礦及び鉄道事業報告 ／ [淮南煤礦局編] ； 興亜院華中連絡部[訳]．"
+            "label": "淮南炭礦及び鉄道事業報告 ／ [淮南煤礦局編] ； 興亜院華中連絡部[訳]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11311/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11314-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "蒙疆案内 ／ 蒙疆聯合委員会編．"
+            "label": "蒙疆案内 ／ 蒙疆聯合委員会編．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11314/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11347-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "昭和研究会研究大綱 ／ 昭和研究会事務局[編]．"
+            "label": "昭和研究会研究大綱 ／ 昭和研究会事務局[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11347/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11351-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "図書目録．"
+            "label": "図書目録．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11351/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11352-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "中国訪日京劇代表団演出節目．"
+            "label": "中国訪日京劇代表団演出節目．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11352/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11354-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "緑牡丹支那劇解説並ニ筋書．"
+            "label": "緑牡丹支那劇解説並ニ筋書．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11354/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11356-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "燕京と津埠．"
+            "label": "燕京と津埠．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11356/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB12039-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "七月十二日附東亜局長半公信ノ指示事項ニ関スル附記．"
+            "label": "七月十二日附東亜局長半公信ノ指示事項ニ関スル附記．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB12039/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB12194-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "抗戦支那農業農村問題関係資料 ／ 東亜研究所上海支所[編]．"
+            "label": "抗戦支那農業農村問題関係資料 ／ 東亜研究所上海支所[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB12194/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB12348-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "山東省動乱記念写真帖．"
+            "label": "山東省動乱記念写真帖．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB12348/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB12349-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "時局写真帖 ／ 長沢写真館撮影．"
+            "label": "時局写真帖 ／ 長沢写真館撮影．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB12349/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB12409-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "青島附近案内図．"
+            "label": "青島附近案内図．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB12409/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB12410-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "[青島]租借地略図．"
+            "label": "[青島]租借地略図．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB12410/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB12775-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "哈爾浜花園尋常小学校校舎使用状況 ： 昭和十二年度，四月十二日現在．"
+            "label": "哈爾浜花園尋常小学校校舎使用状況 ： 昭和十二年度，四月十二日現在．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB12775/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB12776-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "哈爾浜第二尋常小学校要覧．"
+            "label": "哈爾浜第二尋常小学校要覧．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB12776/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB12799-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "北支経済地理 ／ 日本評論編輯部編．"
+            "label": "北支経済地理 ／ 日本評論編輯部編．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB12799/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB12818-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "上海地図 ／ 至誠堂[製作]．"
+            "label": "上海地図 ／ 至誠堂[製作]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB12818/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB12821-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "大済南新区劃明細地図 ／ 満洲日日新聞社済南支局[編]．"
+            "label": "大済南新区劃明細地図 ／ 満洲日日新聞社済南支局[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB12821/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB12823-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "青島市街図．"
+            "label": "青島市街図．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB12823/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13066-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "大東亜戦勃発前ニ於ケル上海買瓣調 ／ 東亜研究所上海支所[編]．"
+            "label": "大東亜戦勃発前ニ於ケル上海買瓣調 ／ 東亜研究所上海支所[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13066/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13067-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "香港の買瓣組合について ： 大東亜戦争前に於ける ／ 東亜研究所上海支所[編]．"
+            "label": "香港の買瓣組合について ： 大東亜戦争前に於ける ／ 東亜研究所上海支所[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13067/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13068-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "上海に於ける買瓣の経済的勢力 ／ 東亜研究所上海支所[編]．"
+            "label": "上海に於ける買瓣の経済的勢力 ／ 東亜研究所上海支所[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13068/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13069-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "ジャーディン・マジソン会社の買瓣契約書集 ／ 東亜研究所上海支所[編]．"
+            "label": "ジャーディン・マジソン会社の買瓣契約書集 ／ 東亜研究所上海支所[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13069/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13117-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "張学良錦州政権の対日交戦準備に就て ／ 陸軍省調査班[編]．"
+            "label": "張学良錦州政権の対日交戦準備に就て ／ 陸軍省調査班[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13117/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13142-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "大同の吊所旧蹟．"
+            "label": "大同の吊所旧蹟．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13142/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13144-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "蒙疆概観 ／ 後宮部隊経理部[編]．"
+            "label": "蒙疆概観 ／ 後宮部隊経理部[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13144/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13307-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "雲崗石仏寺拝観規則．"
+            "label": "雲崗石仏寺拝観規則．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13307/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13345-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "最新支那百科事典 ／ 実業之世界社東亜調査部編．"
+            "label": "最新支那百科事典 ／ 実業之世界社東亜調査部編．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13345/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13378-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "コンサイス満洲国地図．"
+            "label": "コンサイス満洲国地図．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13378/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13379-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "亜細亜東部輿地図 ／ [陸軍参謀局作成]．"
+            "label": "亜細亜東部輿地図 ／ [陸軍参謀局作成]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13379/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13444-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "最近踏査満韓西比利亜地図 ／ 東亜地理研究会著．"
+            "label": "最近踏査満韓西比利亜地図 ／ 東亜地理研究会著．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13444/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13478(1)-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "[北京]．"
+            "label": "[北京]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13478(1)/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13478(2)-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "大上海景観．"
+            "label": "大上海景観．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13478(2)/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
@@ -5520,193 +5607,225 @@
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13738-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "事変前後の支那財政金融 ／ 上海貿易通信社[編]．"
+            "label": "事変前後の支那財政金融 ／ 上海貿易通信社[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13738/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13764(2)-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "支那都市上動産慣行調査資料 ／ 南満洲鉄道株式会社調査部[編]．"
+            "label": "支那都市上動産慣行調査資料 ／ 南満洲鉄道株式会社調査部[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13764(2)/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13770(1)-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "青島守備軍統計年報 ／ 青島守備軍司令部編．"
+            "label": "青島守備軍統計年報 ／ 青島守備軍司令部編．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13770(1)/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13770(2)-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "青島守備軍統計年報 ／ 青島守備軍司令部編．"
+            "label": "青島守備軍統計年報 ／ 青島守備軍司令部編．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13770(2)/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13770(3)-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "青島守備軍統計年報 ／ 青島守備軍司令部編．"
+            "label": "青島守備軍統計年報 ／ 青島守備軍司令部編．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13770(3)/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13921-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "南京政府ノ国民会議召集ト中国共産党ノ批判．"
+            "label": "南京政府ノ国民会議召集ト中国共産党ノ批判．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13921/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB13922-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "国民大会後ノ中国国民党 ／ 総裁室弘報課[訳]．"
+            "label": "国民大会後ノ中国国民党 ／ 総裁室弘報課[訳]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB13922/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB14021-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "順義県沙井村及歴城県冷水溝荘ニ関スル資料集 ／ 満鉄北支経済調査所[編]．"
+            "label": "順義県沙井村及歴城県冷水溝荘ニ関スル資料集 ／ 満鉄北支経済調査所[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB14021/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB14322-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "蒙地略説．"
+            "label": "蒙地略説．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB14322/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB14323-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "郭爾羅斯前旗管内土地調査報告書 ／ 興安局調査科[編]．"
+            "label": "郭爾羅斯前旗管内土地調査報告書 ／ 興安局調査科[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB14323/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB14324-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "郭爾羅斯前旗．"
+            "label": "郭爾羅斯前旗．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB14324/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB14326-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "内地に於ける米穀の生産・需給並取引事情 ／ 満鉄東京支社調査室[編]．"
+            "label": "内地に於ける米穀の生産・需給並取引事情 ／ 満鉄東京支社調査室[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB14326/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB14327-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "河南省地丁銀目録 ／ 満鉄北支経済調査所[編]．"
+            "label": "河南省地丁銀目録 ／ 満鉄北支経済調査所[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB14327/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB14328-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "涿州地畝原案 ／ 満鉄北支経済調査所[編]．"
+            "label": "涿州地畝原案 ／ 満鉄北支経済調査所[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB14328/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB14480-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "東安順義二県地畝冊 ／ 東亜研究所第六調査委員会[編]．"
+            "label": "東安順義二県地畝冊 ／ 東亜研究所第六調査委員会[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB14480/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB14528-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "満洲国「ソヴィエト《聯邦間国境条約集 ／ 外務省条約局[編]．"
+            "label": "満洲国「ソヴィエト《聯邦間国境条約集 ／ 外務省条約局[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB14528/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB14655-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "中国物産ニ関スル資料目録 ／ 東亜同文書院物産館編．"
+            "label": "中国物産ニ関スル資料目録 ／ 東亜同文書院物産館編．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB14655/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB14753-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "中日対訳中華民国新六法 ／ 中華法令編印館編訳．"
+            "label": "中日対訳中華民国新六法 ／ 中華法令編印館編訳．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB14753/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB14781-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "[青島・済南絵葉書]．"
+            "label": "[青島・済南絵葉書]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB14781/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB14782-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "青島案内 ／ 同仁号出版部[編]．"
+            "label": "青島案内 ／ 同仁号出版部[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB14782/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB15277-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "河南省黄河南岸中牟県境三劉砦堵口工程撮影 ／ 臨時政府建設総署[編]．"
+            "label": "河南省黄河南岸中牟県境三劉砦堵口工程撮影 ／ 臨時政府建設総署[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB15277/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB15289-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "支那東北四省行政軍事機関一覧表 ： 昭和五年二月調 ／ 外務省情報部[編]．"
+            "label": "支那東北四省行政軍事機関一覧表 ： 昭和五年二月調 ／ 外務省情報部[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB15289/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB15290-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "北支鉄道略図 ： 昭和13年9月1日現在 ／ 満鉄北支事務局[編]．"
+            "label": "北支鉄道略図 ： 昭和13年9月1日現在 ／ 満鉄北支事務局[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB15290/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB15293-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "最新中華民国略図 ／ 日華実業協会編．"
+            "label": "最新中華民国略図 ／ 日華実業協会編．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB15293/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB15294-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "支那国民党組織系統図 ／ 外務省情報部[編]．"
+            "label": "支那国民党組織系統図 ／ 外務省情報部[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB15294/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB15300-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "中華民国臨時政府組織大綱 ／ 同盟北支総局編．"
+            "label": "中華民国臨時政府組織大綱 ／ 同盟北支総局編．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB15300/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB15301-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "支那国民政府組織系統及重要職員表 ／ 外務省情報部[編]．"
+            "label": "支那国民政府組織系統及重要職員表 ／ 外務省情報部[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB15301/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB15304-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "最近支那軍事機関及各種軍隊一覧表 ： 昭和五年二月初調 ／ 外務省情報部[編]．"
+            "label": "最近支那軍事機関及各種軍隊一覧表 ： 昭和五年二月初調 ／ 外務省情報部[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB15304/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB15309-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "中国国民党第一次全国代表大会宣言 ／ 国民政府軍事委員会総政治部[編]．"
+            "label": "中国国民党第一次全国代表大会宣言 ／ 国民政府軍事委員会総政治部[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB15309/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB15313-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "国民党の組織と陣容 ／ 本社調査部著．"
+            "label": "国民党の組織と陣容 ／ 本社調査部著．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB15313/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB15319-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "全支軍隊配置表 ： 昭和六年二月現在 ／ 日本電報通信社北平支社[編]．"
+            "label": "全支軍隊配置表 ： 昭和六年二月現在 ／ 日本電報通信社北平支社[編]．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB15319/HTML/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJBQ1487-HTML/manifest.json",
             "@type": "sc:Manifest",
-            "label": "中国共産青年団ノ過去及現在．"
+            "label": "中国共産青年団ノ過去及現在．",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJBQ1487/HTML/files/assets/flash/pages/page0001_s.png"
         }
     ],
     "vhint": "use-thumb"

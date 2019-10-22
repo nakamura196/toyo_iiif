@@ -9,7 +9,7 @@ from PIL import Image
 rows = []
 rows.append(["ID", "Page", "Toc"])
 
-for book in range(1, 13):
+for book in range(1, 16):
 
     loop_flg = True  
 
@@ -17,7 +17,7 @@ for book in range(1, 13):
 
     page = 1
 
-    url = "http://124.33.215.236/research/atoinga/"+str(book).zfill(3)+"/index.html"
+    url = "http://www.tbcas.jp/ja/lib/lib4/"+str(book).zfill(3)+"/index.html"
 
     html = urllib.request.urlopen(url)
 

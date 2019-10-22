@@ -245,6 +245,56 @@
                         "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11108/HTML/files/assets/flash/pages/page0009_s.png"
                     },
                     "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11108-HTML/manifest.json/canvas/p10",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11108-HTML/manifest.json/annotation/p10-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11108-HTML/manifest.json/canvas/p10",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11108/HTML/files/assets/flash/pages/page0010_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[10]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11108/HTML/files/assets/flash/pages/page0010_s.png"
+                    },
+                    "width": 2077
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11108-HTML/manifest.json/canvas/p11",
+                    "@type": "sc:Canvas",
+                    "height": 1385,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11108-HTML/manifest.json/annotation/p11-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/MCJB11108-HTML/manifest.json/canvas/p11",
+                            "resource": {
+                                "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11108/HTML/files/assets/flash/pages/page0011_l.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1385,
+                                "width": 2077
+                            }
+                        }
+                    ],
+                    "label": "[11]",
+                    "thumbnail": {
+                        "@id": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB11108/HTML/files/assets/flash/pages/page0011_s.png"
+                    },
+                    "width": 2077
                 }
             ],
             "label": "Current Page Order",
