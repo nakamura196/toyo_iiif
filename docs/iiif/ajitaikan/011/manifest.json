@@ -3742,6 +3742,1160 @@
             "viewingHint": "paged"
         }
     ],
+    "structures": [
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r3",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p3"
+            ],
+            "label": "《目次》黄喇嘛教と普陀宗乗之廟／《地図》踏破撮影略図　［11輯1回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r4",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p4"
+            ],
+            "label": "《記事》黄喇嘛教と普陀宗乗之廟〔三室山人〕　［11輯1回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r5",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p5"
+            ],
+            "label": "普陀乗之廟　（熱河 承徳）　［11輯1回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r6",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p6"
+            ],
+            "label": "静かな山門　（熱河 承徳）　［11輯1回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r7",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p7"
+            ],
+            "label": "五塔門　（熱河 承徳）　［11輯1回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r8",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p8"
+            ],
+            "label": "瑠璃牌坊　（熱河 承徳）　［11輯1回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r9",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p9"
+            ],
+            "label": "境内点景　（熱河 承徳）　［11輯1回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r10",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p10"
+            ],
+            "label": "五塔白台　（熱河 承徳）　［11輯1回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r11",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p11"
+            ],
+            "label": "大紅台を望む　（熱河 承徳）　［11輯1回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r12",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p12"
+            ],
+            "label": "大紅台近影　（熱河 承徳）　［11輯1回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r13",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p13"
+            ],
+            "label": "権衡三界　（熱河 承徳）　［11輯1回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r14",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p14"
+            ],
+            "label": "歓喜無上　（熱河 承徳）　［11輯1回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r15",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p15"
+            ],
+            "label": "《目次》須弥福寿廟の建設理由／《地図》踏破撮影略図　［11輯2回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r16",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p16"
+            ],
+            "label": "《記事》須弥福寿廟の建設理由〔三室山人〕　［11輯2回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r17",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p17"
+            ],
+            "label": "須弥福寿廟　（熱河 承徳）　［11輯2回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r18",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p18"
+            ],
+            "label": "橋と山門　（熱河 承徳）　［11輯2回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r19",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p19"
+            ],
+            "label": "碑閣　（熱河 承徳）　［11輯2回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r20",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p20"
+            ],
+            "label": "斜めに見た廟　（熱河 承徳）　［11輯2回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r21",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p21"
+            ],
+            "label": "牌楼と都綱　（熱河 承徳）　［11輯2回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r22",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p22"
+            ],
+            "label": "都綱の内側　（熱河 承徳）　［11輯2回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r23",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p23"
+            ],
+            "label": "妙高荘厳殿　（熱河 承徳）　［11輯2回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r24",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p24"
+            ],
+            "label": "都綱上の仏堂　（熱河 承徳）　［11輯2回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r25",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p25"
+            ],
+            "label": "吉祥法喜廟　（熱河 承徳）　［11輯2回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r26",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p26"
+            ],
+            "label": "琉璃仏塔　（熱河 承徳）　［11輯2回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r27",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p27"
+            ],
+            "label": "《目次》奉天の宮殿／《記事》奉天の宮殿建築〔村田治郎〕　［11輯3回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r28",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p28"
+            ],
+            "label": "《記事》奉天の宮殿建築〔村田治郎〕　［11輯3回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r29",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p29"
+            ],
+            "label": "武功坊　（奉天・故宮）　［11輯3回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r30",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p30"
+            ],
+            "label": "陀羅尼経幢　（奉天・故宮）　［11輯3回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r31",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p31"
+            ],
+            "label": "大政殿　（奉天・故宮）　［11輯3回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r32",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p32"
+            ],
+            "label": "崇政殿　（奉天・故宮）　［11輯3回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r33",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p33"
+            ],
+            "label": "鳳凰楼　（奉天・故宮）　［11輯3回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r34",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p34"
+            ],
+            "label": "雪の神杆　（奉天・故宮）　［11輯3回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r35",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p35"
+            ],
+            "label": "清寧宮　（奉天・故宮）　［11輯3回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r36",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p36"
+            ],
+            "label": "清初の甲胄　（奉天・故宮）　［11輯3回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r37",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p37"
+            ],
+            "label": "小仏亭　（奉天・故宮）　［11輯3回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r38",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p38"
+            ],
+            "label": "祭儀の楽器　（奉天・故宮）　［11輯3回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r39",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p39"
+            ],
+            "label": "《目次》義県万仏堂　［11輯4回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r40",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p40"
+            ],
+            "label": "《記事》義県万仏堂〔村田治郎〕　［11輯4回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r41",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p41"
+            ],
+            "label": "浅春の大凌河　（錦州省義県）　［11輯4回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r42",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p42"
+            ],
+            "label": "万仏洞展望　（錦州省義県）　［11輯4回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r43",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p43"
+            ],
+            "label": "西の第一窟　（錦州省義県）　［11輯4回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r44",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p44"
+            ],
+            "label": "飛天と天蓋　（錦州省義県）　［11輯4回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r45",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p45"
+            ],
+            "label": "天人の一姿態　（錦州省義県）　［11輯4回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r46",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p46"
+            ],
+            "label": "仏像の列　（錦州省義県）　［11輯4回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r47",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p47"
+            ],
+            "label": "西の第四窟　（錦州省義県）　［11輯4回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r48",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p48"
+            ],
+            "label": "北魏太和の碑　［11輯4回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r49",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p49"
+            ],
+            "label": "竜と千葉蓮華　（錦州省義県）　［11輯4回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r50",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p50"
+            ],
+            "label": "大露出仏　（錦州省義県）　［11輯4回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r51",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p51"
+            ],
+            "label": "《目次》北鎮の歴史／《地図》踏破撮影略図　［11輯5回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r52",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p52"
+            ],
+            "label": "《記事》北鎮の歴史〔三室山人〕　［11輯5回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r53",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p53"
+            ],
+            "label": "城門長閑　（錦州省北鎮）　［11輯5回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r54",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p54"
+            ],
+            "label": "双塔の立つ城　（錦州省北鎮）　［11輯5回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r55",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p55"
+            ],
+            "label": "明代の牌坊　（錦州省北鎮）　［11輯5回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r56",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p56"
+            ],
+            "label": "北鎮鼓楼　（錦州省北鎮）　［11輯5回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r57",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p57"
+            ],
+            "label": "伝説の観音堂　（錦州省北鎮）　［11輯5回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r58",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p58"
+            ],
+            "label": "石群像台座　（錦州省北鎮）　［11輯5回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r59",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p59"
+            ],
+            "label": "毘盧庵　（錦州省北鎮）　［11輯5回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r60",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p60"
+            ],
+            "label": "保安寺石屏　（錦州省北鎮）　［11輯5回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r61",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p61"
+            ],
+            "label": "東岳仁聖殿　（錦州省北鎮）　［11輯5回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r62",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p62"
+            ],
+            "label": "北鎮の八塔　（錦州省北鎮）　［11輯5回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r63",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p63"
+            ],
+            "label": "《目次》医巫閭山の祭祀史／《記事》北鎮廟全図　［11輯6回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r64",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p64"
+            ],
+            "label": "《記事》医巫閭山の祭祀史〔村田治郎〕　［11輯6回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r65",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p65"
+            ],
+            "label": "北鎮廟全景　（錦州省北鎮県）　［11輯6回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r66",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p66"
+            ],
+            "label": "碑楼と医巫閭山　（北鎮廟）　［11輯6回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r67",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p67"
+            ],
+            "label": "廟大門　（北鎮廟）　［11輯6回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r68",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p68"
+            ],
+            "label": "樹間の碑亭　（北鎮廟）　［11輯6回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r69",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p69"
+            ],
+            "label": "御香殿　（北鎮廟）　［11輯6回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r70",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p70"
+            ],
+            "label": "山之神　（北鎮廟）　［11輯6回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r71",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p71"
+            ],
+            "label": "廟の構成美　（北鎮廟）　［11輯6回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r72",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p72"
+            ],
+            "label": "寝宮の二神　（北鎮廟）　［11輯6回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r73",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p73"
+            ],
+            "label": "補天石　（北鎮廟）　［11輯6回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r74",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p74"
+            ],
+            "label": "棋盤山　（北鎮廟）　［11輯6回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r75",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p75"
+            ],
+            "label": "《目次》朝陽の沿革一面／《地図》踏破撮影略図　［11輯7回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r76",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p76"
+            ],
+            "label": "《記事》朝陽の沿革一面〔三室山人〕　［11輯7回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r77",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p77"
+            ],
+            "label": "黄塵の義県　（錦州省義県）　［11輯7回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r78",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p78"
+            ],
+            "label": "義県の鼓楼　（錦州省義県）　［11輯7回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r79",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p79"
+            ],
+            "label": "大奉国寺伽藍　（錦州省義県）　［11輯7回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r80",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p80"
+            ],
+            "label": "大仏荘厳　（義県奉国寺）　［11輯7回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r81",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p81"
+            ],
+            "label": "金代の石碑　（義県奉国寺）　［11輯7回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r82",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p82"
+            ],
+            "label": "朝陽南門外　（錦州省朝陽）　［11輯7回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r83",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p83"
+            ],
+            "label": "朝陽の牌坊　（錦州省朝陽）　［11輯7回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r84",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p84"
+            ],
+            "label": "朝陽北塔　（錦州省）　［11輯7回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r85",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p85"
+            ],
+            "label": "佑順寺　（錦州省朝陽）　［11輯7回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r86",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p86"
+            ],
+            "label": "佑順寺の塔　（錦州省朝陽）　［11輯7回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r87",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p87"
+            ],
+            "label": "《目次》奉天昭陵／《記事》奉天昭陵〔村田治郎〕　［11輯8回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r88",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p88"
+            ],
+            "label": "《記事》昭陵工事年表　［11輯8回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r89",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p89"
+            ],
+            "label": "石の牌楼　（奉天昭陵）　［11輯8回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r90",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p90"
+            ],
+            "label": "拱門に浮ぶ　（奉天昭陵）　［11輯8回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r91",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p91"
+            ],
+            "label": "翼壁の竜　（奉天昭陵）　［11輯8回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r92",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p92"
+            ],
+            "label": "石獣群　（奉天昭陵）　［11輯8回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r93",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p93"
+            ],
+            "label": "石望柱と隆恩門　（奉天昭陵）　［11輯8回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r94",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p94"
+            ],
+            "label": "方城前部　（奉天昭陵）　［11輯8回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r95",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p95"
+            ],
+            "label": "昭陵の核心　（奉天）　［11輯8回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r96",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p96"
+            ],
+            "label": "隆恩殿と明楼　（奉天昭陵）　［11輯8回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r97",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p97"
+            ],
+            "label": "明楼　（奉天昭陵）　［11輯8回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r98",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p98"
+            ],
+            "label": "宝頂　（奉天昭陵）　［11輯8回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r99",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p99"
+            ],
+            "label": "《目次》北平郊外の史蹟／《記事》万寿山の景観　［11輯9回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r100",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p100"
+            ],
+            "label": "《記事》万寿山の景観　［11輯9回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r101",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p101"
+            ],
+            "label": "法蔵寺の塔　（北平）　［11輯9回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r102",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p102"
+            ],
+            "label": "勅建の回教寺　（北平）　［11輯9回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r103",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p103"
+            ],
+            "label": "回教徒の一面　（北平）　［11輯9回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r104",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p104"
+            ],
+            "label": "八里庄の塔　（北平）　［11輯9回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r105",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p105"
+            ],
+            "label": "永安寿塔の詳細　（北平）　［11輯9回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r106",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p106"
+            ],
+            "label": "観音菩薩像碑　（北平）　［11輯9回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r107",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p107"
+            ],
+            "label": "妙応寺白塔　（北平）　［11輯9回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r108",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p108"
+            ],
+            "label": "万寿山遠望　（北平）　［11輯9回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r109",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p109"
+            ],
+            "label": "昆明湖俯瞰　（北平）　［11輯9回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r110",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p110"
+            ],
+            "label": "大正覚寺の塔　（北平）　［11輯9回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r111",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p111"
+            ],
+            "label": "《目次》満洲古塔／《記事》朝陽仏塔小考〔村田治郎〕　［11輯10回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r112",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p112"
+            ],
+            "label": "《記事》朝陽仏塔小考〔村田治郎〕　［11輯10回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r113",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p113"
+            ],
+            "label": "北鎮の双塔　（錦州省北鎮県）　［11輯10回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r114",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p114"
+            ],
+            "label": "双塔側影　（錦州省北鎮県）　［11輯10回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r115",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p115"
+            ],
+            "label": "西塔詳細　（北鎮県崇興寺）　［11輯10回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r116",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p116"
+            ],
+            "label": "錦州塔　（錦州省錦県）　［11輯10回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r117",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p117"
+            ],
+            "label": "錦州塔初層　（錦県大広済寺）　［11輯10回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r118",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p118"
+            ],
+            "label": "古塔寺の塔　（錦県城外）　［11輯10回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r119",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p119"
+            ],
+            "label": "朝陽北塔　（錦州省朝陽県）　［11輯10回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r120",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p120"
+            ],
+            "label": "北塔詳細　（朝陽南塔）　［11輯10回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r121",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p121"
+            ],
+            "label": "朝陽南塔　（朝陽南塔）　［11輯10回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r122",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p122"
+            ],
+            "label": "南塔下層　（朝陽南塔）　［11輯10回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r123",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p123"
+            ],
+            "label": "《目次》塩田の点描　［11輯11回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r124",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p124"
+            ],
+            "label": "《記事》関東州の塩業〔本社〕　［11輯11回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r125",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p125"
+            ],
+            "label": "貔子窩の塩田　（関東州）　［11輯11回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r126",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p126"
+            ],
+            "label": "洗滌工場　（貔子窩）　［11輯11回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r127",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p127"
+            ],
+            "label": "倉庫の内部　（貔子窩）　［11輯11回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r128",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p128"
+            ],
+            "label": "製塩の山　（普蘭店）　［11輯11回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r129",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p129"
+            ],
+            "label": "風鳴島塩田　（鳳東山五島）　［11輯11回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r130",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p130"
+            ],
+            "label": "揚水ポンプ室　（五島交流島）　［11輯11回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r131",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p131"
+            ],
+            "label": "鹹水溜　（後三道湾）　［11輯11回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r132",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p132"
+            ],
+            "label": "渡橋　（後三道湾）　［11輯11回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r133",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p133"
+            ],
+            "label": "連絡航路　（五島交流島）　［11輯11回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r134",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p134"
+            ],
+            "label": "塩の船積　（普蘭店港）　［11輯11回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r135",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p135"
+            ],
+            "label": "《目次》楽土満洲　［11輯12回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r136",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p136"
+            ],
+            "label": "《記事》楽土満洲〔本社〕　［11輯12回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r137",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p137"
+            ],
+            "label": "満洲の古代色　（新京の町はづれ）　［11輯12回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r138",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p138"
+            ],
+            "label": "土の住居　（新京郊外）　［11輯12回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r139",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p139"
+            ],
+            "label": "城壁　（金州城門）　［11輯12回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r140",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p140"
+            ],
+            "label": "豚と満人　（新京郊外にて）　［11輯12回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r141",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p141"
+            ],
+            "label": "親豚と子豚　（新京附近）　［11輯12回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r142",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p142"
+            ],
+            "label": "満人と驢馬　（新京附近）　［11輯12回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r143",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p143"
+            ],
+            "label": "平和な牧場　（公主嶺農場）　［11輯12回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r144",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p144"
+            ],
+            "label": "老翁と遜　（ハルビン近郊）　［11輯12回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r145",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p145"
+            ],
+            "label": "露人部落の朝　（ハルビンの場末）　［11輯12回］"
+        },
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/range/r146",
+            "@type": "sc:Range",
+            "canvases": [
+                "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json/canvas/p146"
+            ],
+            "label": "白系露人の子供　（ハルビンの場末）　［11輯12回］"
+        }
+    ],
     "thumbnail": {
         "@id": "http://www.tbcas.jp/ja/lib/lib4/011/page2/thumbnail.jpg"
     },
