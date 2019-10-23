@@ -1,0 +1,17 @@
+ID,title,Thumbnail,rights,manifest,Relation,viewingDirection,viewingHint,attribution
+http://purl.org/dc/terms/identifier,http://purl.org/dc/terms/title,http://xmlns.com/foaf/0.1/thumbnail,http://purl.org/dc/terms/rights,http://schema.org/url,http://purl.org/dc/terms/relation,http://iiif.io/api/presentation/2#viewingDirection,http://iiif.io/api/presentation/2#viewingHint
+Literal,Literal,Resource,Resource,Resource
+
+3_G_b_06,狂月望
+3-G-B-65_1,新板日置花見集　上
+3_G_b_11_02,彩画職人部類　下
+3_F_a_ro_9_01,した 上
+3_F_a_ro_10_01,しゃかの本地 上
+3-G-B-74_2,風俗狂歌摺物帖　第二帙
+3-G-B-74_1,風俗狂歌摺物帖　第一帙
+3_F_a_ro_10_02,しゃかの本地 中
+XV-3-B-B-45,梅花正圖
+3_F_a_ro_10_03,しゃかの本地 下
+3_G_b_11_01,彩画職人部類　上
+3_F_a_ro_9_02,した 下
+3-G-B-65_2,新板日置花見集　下

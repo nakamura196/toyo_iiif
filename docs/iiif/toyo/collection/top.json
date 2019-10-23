@@ -38,6 +38,13 @@
             "@type": "sc:Manifest",
             "label": "『亜細亜大観』",
             "thumbnail": "http://www.tbcas.jp/ja/lib/lib4/001/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/collection/top.json",
+            "@type": "sc:Manifest",
+            "label": "岩崎善本",
+            "thumbnail": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_001/full/125,/0/default.jpg"
         }
     ],
     "vhint": "use-thumb"

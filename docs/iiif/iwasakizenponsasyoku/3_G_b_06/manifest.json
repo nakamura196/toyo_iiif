@@ -1,0 +1,443 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫",
+    "label": "狂月望",
+    "license": "http://www.toyo-bunko.or.jp/library3/usingthefacilities.html",
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1583,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p1",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_001/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1583,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_001",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 2000
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_001/full/125,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_001",
+                            "profile": "http://iiif.io/api/image/2/level0.json"
+                        }
+                    },
+                    "width": 2000
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1583,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p2",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_002/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1583,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_002",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 2000
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_002/full/125,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_002",
+                            "profile": "http://iiif.io/api/image/2/level0.json"
+                        }
+                    },
+                    "width": 2000
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1583,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/annotation/p3-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p3",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_003/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1583,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_003",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 2000
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_003/full/125,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_003",
+                            "profile": "http://iiif.io/api/image/2/level0.json"
+                        }
+                    },
+                    "width": 2000
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 1583,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/annotation/p4-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p4",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_004/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1583,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_004",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 2000
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_004/full/125,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_004",
+                            "profile": "http://iiif.io/api/image/2/level0.json"
+                        }
+                    },
+                    "width": 2000
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 1583,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/annotation/p5-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p5",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_005/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1583,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_005",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 2000
+                            }
+                        }
+                    ],
+                    "label": "[5]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_005/full/125,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_005",
+                            "profile": "http://iiif.io/api/image/2/level0.json"
+                        }
+                    },
+                    "width": 2000
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 1583,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/annotation/p6-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p6",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_006/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1583,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_006",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 2000
+                            }
+                        }
+                    ],
+                    "label": "[6]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_006/full/125,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_006",
+                            "profile": "http://iiif.io/api/image/2/level0.json"
+                        }
+                    },
+                    "width": 2000
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p7",
+                    "@type": "sc:Canvas",
+                    "height": 1583,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/annotation/p7-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p7",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_007/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1583,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_007",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 2000
+                            }
+                        }
+                    ],
+                    "label": "[7]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_007/full/125,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_007",
+                            "profile": "http://iiif.io/api/image/2/level0.json"
+                        }
+                    },
+                    "width": 2000
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p8",
+                    "@type": "sc:Canvas",
+                    "height": 1583,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/annotation/p8-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p8",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_008/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1583,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_008",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 2000
+                            }
+                        }
+                    ],
+                    "label": "[8]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_008/full/125,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_008",
+                            "profile": "http://iiif.io/api/image/2/level0.json"
+                        }
+                    },
+                    "width": 2000
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p9",
+                    "@type": "sc:Canvas",
+                    "height": 1583,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/annotation/p9-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p9",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_009/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1583,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_009",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 2000
+                            }
+                        }
+                    ],
+                    "label": "[9]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_009/full/125,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_009",
+                            "profile": "http://iiif.io/api/image/2/level0.json"
+                        }
+                    },
+                    "width": 2000
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p10",
+                    "@type": "sc:Canvas",
+                    "height": 1583,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/annotation/p10-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p10",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_010/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1583,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_010",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 2000
+                            }
+                        }
+                    ],
+                    "label": "[10]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_010/full/125,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_010",
+                            "profile": "http://iiif.io/api/image/2/level0.json"
+                        }
+                    },
+                    "width": 2000
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p11",
+                    "@type": "sc:Canvas",
+                    "height": 1583,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/annotation/p11-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p11",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_011/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1583,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_011",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 2000
+                            }
+                        }
+                    ],
+                    "label": "[11]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_011/full/125,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_011",
+                            "profile": "http://iiif.io/api/image/2/level0.json"
+                        }
+                    },
+                    "width": 2000
+                },
+                {
+                    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p12",
+                    "@type": "sc:Canvas",
+                    "height": 1583,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/annotation/p12-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json/canvas/p12",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_012/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1583,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_012",
+                                    "profile": "http://iiif.io/api/image/2/level0.json"
+                                },
+                                "width": 2000
+                            }
+                        }
+                    ],
+                    "label": "[12]",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_012/full/125,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_012",
+                            "profile": "http://iiif.io/api/image/2/level0.json"
+                        }
+                    },
+                    "width": 2000
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_001/full/125,/0/default.jpg"
+    },
+    "viewingDirection": "left-to-right"
+}

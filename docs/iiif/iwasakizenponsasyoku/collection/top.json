@@ -1,0 +1,100 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/collection/top.json",
+    "@type": "sc:Collection",
+    "label": "岩崎善本",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_06/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "狂月望",
+            "thumbnail": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3-G-B-65_1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "新板日置花見集　上",
+            "thumbnail": "https://nakamura196.github.io/toyo_images/gazou/2009/三-G-B-65_1/1000/IMG0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_11_02/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "彩画職人部類　下",
+            "thumbnail": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_11/02/1000/3_G_b_11_02_001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_F_a_ro_9_01/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "した 上",
+            "thumbnail": "https://nakamura196.github.io/toyo_images/gazou/2009/3_F_a_ro_9/01/1000/3_F_a_ro_9_01_001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_F_a_ro_10_01/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "しゃかの本地 上",
+            "thumbnail": "https://nakamura196.github.io/toyo_images/gazou/2009/3_F_a_ro_10/01/1000/3_F_a_ro_10_01_001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3-G-B-74_2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "風俗狂歌摺物帖　第二帙",
+            "thumbnail": "https://nakamura196.github.io/toyo_images/gazou/2009/三-G-B-74_2/1000/IMG0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3-G-B-74_1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "風俗狂歌摺物帖　第一帙",
+            "thumbnail": "https://nakamura196.github.io/toyo_images/gazou/2009/三-G-B-74_1/1000/IMG0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_F_a_ro_10_02/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "しゃかの本地 中",
+            "thumbnail": "https://nakamura196.github.io/toyo_images/gazou/2009/3_F_a_ro_10/02/1000/3_F_a_ro_10_02_001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/XV-3-B-B-45/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "梅花正圖",
+            "thumbnail": "https://nakamura196.github.io/toyo_images/gazou/2009/XV-3-B-B-45/1000/IMG0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_F_a_ro_10_03/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "しゃかの本地 下",
+            "thumbnail": "https://nakamura196.github.io/toyo_images/gazou/2009/3_F_a_ro_10/03/1000/3_F_a_ro_10_03_001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_G_b_11_01/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "彩画職人部類　上",
+            "thumbnail": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_11/01/1000/3_G_b_11_01_001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3_F_a_ro_9_02/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "した 下",
+            "thumbnail": "https://nakamura196.github.io/toyo_images/gazou/2009/3_F_a_ro_9/02/1000/3_F_a_ro_9_02_001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/3-G-B-65_2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "新板日置花見集　下",
+            "thumbnail": "https://nakamura196.github.io/toyo_images/gazou/2009/三-G-B-65_2/1000/IMG0001/full/125,/0/default.jpg"
+        }
+    ],
+    "vhint": "use-thumb"
+}
