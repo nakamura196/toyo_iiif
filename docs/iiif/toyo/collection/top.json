@@ -31,6 +31,13 @@
             "@type": "sc:Manifest",
             "label": "柏原英一写真帳",
             "thumbnail": "http://www.tbcas.jp/ja/lib/lib2/001/page1/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/collection/top.json",
+            "@type": "sc:Manifest",
+            "label": "『亜細亜大観』",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib4/001/page2/thumbnail.jpg"
         }
     ],
     "vhint": "use-thumb"
