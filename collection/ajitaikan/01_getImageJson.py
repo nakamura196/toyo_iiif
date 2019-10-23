@@ -6,7 +6,7 @@ import hashlib
 import os
 from PIL import Image
 
-for book in range(1, 13):
+for book in range(1, 17):
 
     loop_flg = True  
 

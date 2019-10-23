@@ -1,0 +1,121 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/collection/top.json",
+    "@type": "sc:Collection",
+    "label": "『亜細亜大観』",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/001/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "\t\n『亜細亜大観』 第1冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib4/001/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/002/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "\t\n『亜細亜大観』 第2冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib4/002/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/003/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "\t\n『亜細亜大観』 第3冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib4/003/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/004/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "\t\n『亜細亜大観』 第4冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib4/004/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/005/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "\t\n『亜細亜大観』 第5冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib4/005/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/006/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "\t\n『亜細亜大観』 第6冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib4/006/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/007/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "\t\n『亜細亜大観』 第7冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib4/007/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/008/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "\t\n『亜細亜大観』 第8冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib4/008/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/009/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "\t\n『亜細亜大観』 第9冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib4/009/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/010/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "\t\n『亜細亜大観』 第10冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib4/010/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/011/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "\t\n『亜細亜大観』 第11冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib4/011/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/012/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "\t\n『亜細亜大観』 第12冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib4/012/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/013/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "\t\n『亜細亜大観』 第13冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib4/013/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/014/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "\t\n『亜細亜大観』 第14冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib4/014/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/015/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "\t\n『亜細亜大観』 第15冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib4/015/page2/thumbnail.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/016/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "\t\n『亜細亜大観』 第16冊",
+            "thumbnail": "http://www.tbcas.jp/ja/lib/lib4/016/page2/thumbnail.jpg"
+        }
+    ],
+    "vhint": "use-thumb"
+}

@@ -11,7 +11,7 @@ import yaml
 import requests
 
 prefix = "https://nakamura196.github.io/toyo_iiif"
-odir = "../docs"
+odir = "../../docs"
 
 '''
 config_path = "/Users/nakamura/git/min_a/lda/src/data/config.yml"

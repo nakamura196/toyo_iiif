@@ -1,0 +1,20 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/002/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫",
+    "description": "『亜細亜大観』は、大連に拠点を置いた亜細亜写真大観社が1926年から1940年頃まで発行した月刊の写真帳です。写真帳の台紙にはモノクロプリントが貼り付けられており、写真1枚ごとに短い解説文がつけられています。10枚を１セットとして、１ヶ月に２回、会員向けに配布されたようです。\n　日本人カメラマンが、中国・朝鮮半島・モンゴル・チベットなどの風俗や民情、自然風景、歴史的建造物などを撮影したものであり、当時の様子を伝える貴重な資料です。",
+    "label": "\t\n『亜細亜大観』 第2冊",
+    "license": "http://www.tbcas.jp/ja/site.html",
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/002/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/002/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "label": "Current Page Order",
+            "viewingHint": "paged"
+        }
+    ],
+    "viewingDirection": "left-to-right"
+}
