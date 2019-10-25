@@ -1,0 +1,184 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/collection/top.json",
+    "@type": "sc:Collection",
+    "label": "古地図　世界図（図書部）",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "西洋進貢地体円球全図",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-2/XI-6-B-2_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-11_2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "坤輿万国全図(二)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-11_2/XI-6-B-11_02_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-3_6/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "赤道南北両総星図(六)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-3_6/XI-6-B-3_06_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-1_7/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "坤輿全図(七)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-1_7/XI-6-B-1_07_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/O-1-A-69_1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Novus atlas absolutissimus Volume 10 The old world",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/O-1-A-69_1/O-1-A-69-10_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-1_6/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "坤輿全図(六)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-1_6/XI-6-B-1_06_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-3_7/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "赤道南北両総星図(七)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-3_7/XI-6-B-3_07_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-11_3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "坤輿万国全図(三)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-11_3/XI-6-B-11_03_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-1_1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "坤輿全図(一)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-1_1/XI-6-B-1_01_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-11_4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "坤輿万国全図(四)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-11_4/XI-6-B-11_04_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-11_5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "坤輿万国全図(五)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-11_5/XI-6-B-11_05_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-3_1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "赤道南北両総星図(一)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-3_1/XI-6-B-3_01_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-1_3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "坤輿全図(三)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-1_3/XI-6-B-1_03_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-3_2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "赤道南北両総星図(二)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-3_2/XI-6-B-3_02_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-11_6/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "坤輿万国全図(六)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-11_6/XI-6-B-11_06_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-3_3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "赤道南北両総星図(三)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-3_3/XI-6-B-3_03_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-1_2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "坤輿全図(二)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-1_2/XI-6-B-1_02_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-3_8/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "赤道南北両総星図(八)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-3_8/XI-6-B-3_08_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-1_5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "坤輿全図(五)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-1_5/XI-6-B-1_05_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-3_4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "赤道南北両総星図(四)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-3_4/XI-6-B-3_04_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-3_5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "赤道南北両総星図(五)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-3_5/XI-6-B-3_05_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/3-H-d-ho-2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "地球一覧図",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/3-H-d-ho-2/3-H-d-ho-2_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-1_4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "坤輿全図(四)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-1_4/XI-6-B-1_04_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-11_1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "坤輿万国全図(一)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-11_1/XI-6-B-11_01_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/XI-6-B-1_8/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "坤輿全図(八)",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-1_8/XI-6-B-1_08_0001/full/125,/0/default.jpg"
+        }
+    ],
+    "vhint": "use-thumb"
+}

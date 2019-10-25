@@ -36,19 +36,24 @@ for file in sorted(files):
 
         print(image)
 
-        original = image.replace("http://124.33.215.236", "https://nakamura196.github.io/toyo_images").replace(".jpg", "/info.json")
+        original = image.replace("http://124.33.215.236", "https://toyo-iiif.s3.us-east-2.amazonaws.com").replace(".jpg", "/info.json")
 
-        r = requests.get(original)
-        info = r.json()
+        try:
 
-        size = info["sizes"][0]
+            print(original)
+            r = requests.get(original)
+            info = r.json()
 
-        thumbnail = original.replace("info.json", "full/"+str(size["width"])+",/0/default.jpg")
+            size = info["sizes"][0]
 
-        if i == 0:
-            rows2.append([data["id"], thumbnail])
+            thumbnail = original.replace("info.json", "full/"+str(size["width"])+",/0/default.jpg")
 
-        rows.append([data["id"], original, thumbnail, info["width"], info["height"]])
+            if i == 0:
+                rows2.append([data["id"], thumbnail])
+
+            rows.append([data["id"], original, thumbnail, info["width"], info["height"]])
+        except:
+            print("Error.")
 
 import csv
 
