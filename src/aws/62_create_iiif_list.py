@@ -58,7 +58,7 @@ for c in collections:
             "image": "https://www.gumtree.com/static/1/resources/assets/rwd/images/orphans/a37b37d99e7cef805f354d47.noimage_thumbnail.png",
             "label": label,
             "sourceInfo": "東洋文庫IIIFコレクション",
-            "url": "http://universalviewer.io/examples/uv/uv.html#?manifest="+manifest_uri,
+            "url": "http://da.dl.itc.u-tokyo.ac.jp/mirador/?manifest="+manifest_uri,
             "media": "IIIF"
         }
 
