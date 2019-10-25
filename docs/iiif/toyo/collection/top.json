@@ -52,6 +52,13 @@
             "@type": "sc:Manifest",
             "label": "古地図　世界図（図書部）",
             "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-2/XI-6-B-2_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/toyo_iiif/iiif/k5/collection/top.json",
+            "@type": "sc:Manifest",
+            "label": "美男役者絵　他",
+            "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/I-1-D-168_2/I-1-D-168_02_0001/full/125,/0/default.jpg"
         }
     ],
     "vhint": "use-thumb"
