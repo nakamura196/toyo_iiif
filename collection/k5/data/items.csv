@@ -1,0 +1,5 @@
+ID,title,Thumbnail,rights,manifest,Relation,viewingDirection,viewingHint,attribution
+http://purl.org/dc/terms/identifier,http://purl.org/dc/terms/title,http://xmlns.com/foaf/0.1/thumbnail,http://purl.org/dc/terms/rights,http://schema.org/url,http://purl.org/dc/terms/relation,http://iiif.io/api/presentation/2#viewingDirection,http://iiif.io/api/presentation/2#viewingHint
+Literal,Literal,Resource,Resource,Resource
+
+I-1-D-168_2,美男役者絵　他,,http://www.toyo-bunko.or.jp/library3/usingthefacilities.html,https://nakamura196.github.io/toyo_iiif/iiif/k5/I-1-D-168_2/manifest.json,http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/toyo_iiif/iiif/k5/I-1-D-168_2/manifest.json,,,東洋文庫
