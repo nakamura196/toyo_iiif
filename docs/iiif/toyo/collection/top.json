@@ -7,59 +7,67 @@
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/atoinga/collection/top.json",
-            "@type": "sc:Manifest",
+            "@type": "sc:Collection",
             "label": "亜東印画輯",
             "thumbnail": "http://124.33.215.236/research/atoinga/001/page2/thumbnail.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/lib1/collection/top.json",
-            "@type": "sc:Manifest",
+            "@type": "sc:Collection",
             "label": "現代中国研究資料室公開・近代中国関係日本語資料",
             "thumbnail": "http://www.tbcas.jp/ja/lib/lib5/data/MCJB00022/files/assets/flash/pages/page0001_s.png"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/I-A/collection/top.json",
-            "@type": "sc:Manifest",
+            "@type": "sc:Collection",
             "label": "Ⅴ．動画 東アジア［図書部：研究部；東アジア資料研究班］ L1　中国祭祀演劇資料 I. 郷民儀禮 A.巡遊",
             "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMwUBCBCbnKi3Zgpp9q8kBaHwHDeylDS8DaHOjA40Th1KsMs5w"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/kashiwabara/collection/top.json",
-            "@type": "sc:Manifest",
+            "@type": "sc:Collection",
             "label": "柏原英一写真帳",
             "thumbnail": "http://www.tbcas.jp/ja/lib/lib2/001/page1/thumbnail.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/ajitaikan/collection/top.json",
-            "@type": "sc:Manifest",
+            "@type": "sc:Collection",
             "label": "『亜細亜大観』",
             "thumbnail": "http://www.tbcas.jp/ja/lib/lib4/001/page2/thumbnail.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/iwasakizenponsasyoku/collection/top.json",
-            "@type": "sc:Manifest",
+            "@type": "sc:Collection",
             "label": "岩崎善本",
             "thumbnail": "https://nakamura196.github.io/toyo_images/gazou/2009/3_G_b_06/1000/3_G_b_06_00_001/full/125,/0/default.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/j1/collection/top.json",
-            "@type": "sc:Manifest",
+            "@type": "sc:Collection",
             "label": "古地図　世界図（図書部）",
             "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/XI-6-B-2/XI-6-B-2_0001/full/125,/0/default.jpg"
         },
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/toyo_iiif/iiif/k5/collection/top.json",
-            "@type": "sc:Manifest",
+            "@type": "sc:Collection",
             "label": "浮世絵 美人画",
             "thumbnail": "https://toyo-iiif.s3.us-east-2.amazonaws.com/gazou/201511/I-1-D-168_2/I-1-D-168_02_0001/full/125,/0/default.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://dsr.nii.ac.jp/toyobunko/collection.json",
+            "@type": "sc:Collection",
+            "label": "国立情報学研究所 - ディジタル・シルクロード・プロジェクト 『東洋文庫所蔵』貴重書デジタルアーカイブ",
+            "thumbnail": "http://dsr.nii.ac.jp/toyobunko/VIII-5-B2-7/V-1/images/icon/0603-100x100.jpg"
         }
+        
     ],
     "vhint": "use-thumb"
 }
