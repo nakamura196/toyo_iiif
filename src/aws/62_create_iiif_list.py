@@ -12,9 +12,7 @@ import urllib.request
 import hashlib
 import urllib.parse
 
-colections_uri = "https://nakamura196.github.io/toyo_iiif/iiif/toyo/collection/top.json"
-
-dir = "iiif"
+colections_uri = "https://raw.githubusercontent.com/nakamura196/toyo_iiif/master/docs/iiif/toyo/collection/top.json"
 
 rows = []
  
@@ -27,9 +25,6 @@ collections = data["collections"]
 
 for c in collections:
     colections_uri = c["@id"]
-
-    if colections_uri == "https://nakamura196.github.io/iiif/data/collection/collections/ndl.json":
-        continue
 
     attr = c["label"]
     if len(attr.split(" (")) == 2:
@@ -47,10 +42,15 @@ for c in collections:
         manifest_uri = manifest["@id"]
         
         label = manifest["label"]
+        if isinstance(label, list):
+            for obj in label:
+                if obj["@language"] == "ja":
+                    tmp = obj["@value"]
+            label = tmp
 
         id = hashlib.md5(manifest_uri.encode('utf-8')).hexdigest()
 
-        file_path = "data/"+dir+"/json/"+id+".json"
+        file_path = "data/json/"+id+".json"
 
         obj = {
             "_id": id,
@@ -59,19 +59,32 @@ for c in collections:
             "label": label,
             "sourceInfo": "東洋文庫IIIFコレクション",
             "url": "http://da.dl.itc.u-tokyo.ac.jp/mirador/?manifest="+manifest_uri,
-            "media": "IIIF"
+            "media": "IIIF",
+            "manifest": manifest_uri
         }
 
         if os.path.exists(file_path):
             try:
                 with open(file_path) as f:
                     df = json.load(f)
-                    thumbnail = df["thumbnail"]["@id"]
-                    obj["image"] = thumbnail
+
+                    if "thumbnail" in df:
+                        thumbnail = df["thumbnail"]["@id"]
+                        obj["image"] = thumbnail
+
+                    description = []
+
+                    if "metadata" in df:
+
+                        metadata = df["metadata"]
+
+                        for m in metadata:
+                            description.append(m["label"]+" : "+str(m["value"]))
+                        obj["description"] = description
             except Exception as e:
-                print(e)
+                print("error\t"+manifest_uri+"\t"+str(e))
 
         rows.append(obj)
 
-fw = open("data/"+dir+"/list.json", 'w')
+fw = open("data/list.json", 'w')
 json.dump(rows, fw, ensure_ascii=False)

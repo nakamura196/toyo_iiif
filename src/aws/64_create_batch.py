@@ -8,7 +8,7 @@ import glob
 import sys
 import argparse
 
-dir = "tmp/iiif"
+dir = "tmp"
 files = glob.glob("data/"+dir+"/*.json")
 
 rows = []

@@ -11,8 +11,7 @@ import csv
 import shutil
 
 rows = []
-dd = "iiif"
-odir = "data/tmp/"+dd
+odir = "data/tmp"
 
 shutil.rmtree(odir)
 os.mkdir(odir)
@@ -33,7 +32,7 @@ def output(rows):
 
     return rows
 
-files = glob.glob("data/"+dd+"/list.json")
+files = glob.glob("data/list.json")
 
 a = 5000
 
