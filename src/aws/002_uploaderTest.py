@@ -1,25 +1,30 @@
-import json
-from SPARQLWrapper import SPARQLWrapper
-import urllib.parse
-import requests
-import csv
-import os
-import glob
 import sys
-import argparse
+from classes import uploader
+import csv
+import glob
 import json
-import urllib.request
+import requests
 import hashlib
-import urllib.parse
+import os
+
+INDEX = "toyo_items"
+HOST = 'search-nakamura196-rgvfh3jsqpal3gntof6o7f3ch4.us-east-1.es.amazonaws.com'
+REGION = 'us-east-1'
+PROFILE_NAME = 'default'
+
+files = glob.glob("data/json/*.json")
+files = sorted(files)
+
+all_bodies = []
 
 colections_uri = "https://raw.githubusercontent.com/nakamura196/toyo_iiif/master/docs/iiif/toyo/collection/top.json"
 
 rows = []
  
 url = colections_uri
-res = urllib.request.urlopen(url)
+res = requests.get(url)
 # json_loads() でPythonオブジェクトに変換
-data = json.loads(res.read().decode('utf-8'))
+data = res.json()
 
 collections = data["collections"]
 
@@ -30,8 +35,6 @@ for c in collections:
     if len(attr.split(" (")) == 2:
         attr = attr.split(" (")[0]
 
-    print(attr)
-
     data = requests.get(colections_uri, headers={"content-type": "application/json"}).json()
 
     manifests = data["manifests"]
@@ -40,7 +43,7 @@ for c in collections:
         manifest = manifests[i]
 
         manifest_uri = manifest["@id"]
-        
+    
         label = manifest["label"]
         if isinstance(label, list):
             for obj in label:
@@ -52,15 +55,19 @@ for c in collections:
 
         file_path = "data/json/"+id+".json"
 
-        obj = {
+        # ------
+
+        body = {
+            "_type" : "_doc",
+            "_index" : INDEX,
             "_id": id,
-            "accessInfo": attr,
-            "image": "https://www.gumtree.com/static/1/resources/assets/rwd/images/orphans/a37b37d99e7cef805f354d47.noimage_thumbnail.png",
-            "label": label,
-            "sourceInfo": "東洋文庫IIIFコレクション",
-            "url": "http://da.dl.itc.u-tokyo.ac.jp/mirador/?manifest="+manifest_uri,
-            "media": "IIIF",
-            "manifest": manifest_uri
+            "_image": ["https://www.gumtree.com/static/1/resources/assets/rwd/images/orphans/a37b37d99e7cef805f354d47.noimage_thumbnail.png"],
+            "_title": [label],
+            "_url": ["http://da.dl.itc.u-tokyo.ac.jp/mirador/?manifest="+manifest_uri],
+            "_media": ["IIIF"],
+            "_manifest": [manifest_uri],
+
+            "データベース": ["東洋文庫IIIFコレクション"],
         }
 
         if os.path.exists(file_path):
@@ -70,7 +77,7 @@ for c in collections:
 
                     if "thumbnail" in df:
                         thumbnail = df["thumbnail"]["@id"]
-                        obj["image"] = thumbnail
+                        body["_image"] = [thumbnail]
 
                     description = []
 
@@ -79,12 +86,19 @@ for c in collections:
                         metadata = df["metadata"]
 
                         for m in metadata:
-                            description.append(m["label"]+" : "+str(m["value"]))
-                        obj["description"] = description
+                            label = m["label"]
+                            value = str(m["value"])
+                            if label not in body:
+                                body[label] = []
+                            body[label].append(value)
             except Exception as e:
                 print("error\t"+manifest_uri+"\t"+str(e))
 
-        rows.append(obj)
+        all_bodies.append(body)
 
-fw = open("data/list.json", 'w')
-json.dump(rows, fw, ensure_ascii=False)
+uploader.Uploader.main(
+    index=INDEX, 
+    host=HOST, 
+    region=REGION, 
+    profile_name=PROFILE_NAME, 
+    all_body=all_bodies)
